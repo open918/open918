@@ -1,0 +1,6 @@
+{
+  "name": "Open918",
+  "tagline": "A library to decode UIC 918.2 encoded barcodes",
+  "body": "### Welcome to Open918\r\nOpen918 is a project to create a library to parse, validate and handle barcodes by the UIC 918.x standards. \r\n\r\n### Authors and Contributors\r\n* @joelhaasnoot\r\n* BliksemLabs",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
