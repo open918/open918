@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Generic implementation of a ticket converter that stores fields for use in a converter
  */
-abstract class TicketConverter implements TicketFieldTextConverter, TicketFieldDetailsConverter {
+public abstract class TicketConverter implements TicketFieldTextConverter, TicketFieldDetailsConverter {
 
     protected List<TicketField> fields;
 
