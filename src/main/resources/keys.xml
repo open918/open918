@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<keys>
+    <key>
+        <issuerName>ZSSK</issuerName>
+        <issuerCode>1156</issuerCode>
+        <versionType>UIC918-3</versionType>
+        <signatureAlgorithm>SHA1withDSA(1024,160)</signatureAlgorithm>
+        <id>2</id>
+        <publicKey>
+            MIIDuDCCAqCgAwIBAgIBBzANBgkqhkiG9w0BAQsFADA9MQswCQYDVQQGEwJTSzENMAsGA1UEChMEWlNTSzENMAsGA1UECxMESUtWQzEQMA4GA1UEAxMHQ0EtSUtWQzAeFw0xNTEyMzEyMzAwMDBaFw0xODAzMzEyMjU5NTlaMD8xCzAJBgNVBAYTAlNLMQ0wCwYDVQQKEwRaU1NLMQ0wCwYDVQQLEwRJS1ZDMRIwEAYDVQQDEwkxMTU2MDAwMDIwggG2MIIBKwYHKoZIzjgEATCCAR4CgYEAoRrEWutcu3MYn6WjcT4cy948wdafiTIKAPATZTfIpfrnWxCstYcguIuo8KiEQQfoHxIjRBK56QRAgs4UxqQbqybA8MUoAPPFB59G5JVPE4d//+lizTSt1D8AgwTp0jJkZJ7JewbB3NvgsB8gpTTnGkANARsXXI4fQEXiMNE0e3cCFQDnLbJS8dE3zkephD3VZkc4Y0ikRwKBgCfv/sBrnXAMDTDqIRVZ94cYMbANa6r6OWWOxmXno+3GCkH4P/MxEADosnbWUepeANInkou1XXuiVigxUkYL4uy1BTjdbRhMUggyCyaXIcykZioG9jyBF3/WZnSr4wN6Mc96+iMTIPciMUHAozj+uCgaNsTUQ7riECa3fUDzjaOgA4GEAAKBgFfSycHUoL9+zNqXN4uD9mkJbJc/qGMOWYc6xi13jfeg0m8oNBkMm/RckLcyUZB5ACH+r0mXqXQGt+hL5ZI2gEzsnGiE+CSeUwSXA0NclZsHRpO2rTuM84pFY7vmI11g/ii/S35M+qCFn8LlA/yDDJ0c3uM2dKE2+OAKwOFSQL9Foy0wKzAJBgNVHRMEAjAAMAsGA1UdDwQEAwIEkDARBgNVHQ4ECgQIrOpcQzfaFSMwDQYJKoZIhvcNAQELBQADggEBAFZi95EaA+lGNxsDTnpufVT8f+WgEO5lpObiJOr0Sxedy87Kx92X+mhgX/eR/kutUOQdXHo2uk/RobE/RkWDf3pomJtCyJCny1Zyk3hBp34ozf/JB+3RVaXrwlk2aS2b6FVsWzTt750r1yVoWsq10wQwIg67GzsKauuEbQQ1ZZtj7nmYWWRKd3Bb2RTism+6kGT6aU7aanmm1WKsgYStYklAzhjFpUlyvIKWkI/Iz+z2OwP/r5pu59DjPGDgPxSzJoZZJCx78aOrlDP31H4EmfljDGTWRO9B2FPkfelKZN2aZP+VmcgfORUiF+rscuBBdBiO/VBD2b0kWj0UMBQ4mtc=
+        </publicKey>
+        <barcodeVersion>1</barcodeVersion>
+        <startDate>2016-01-01</startDate>
+        <endDate>2018-03-31</endDate>
+        <barcodeXsd />
+        <allowedProductOwnerCodes />
+        <keyForged />
+        <commentForEncryptionType />
+    </key>
+    <key>
+        <issuerName>ZSSK</issuerName>
+        <issuerCode>1156</issuerCode>
+        <versionType>UIC 918-3</versionType>
+        <signatureAlgorithm>DSA_SHA1 (1024)</signatureAlgorithm>
+        <id>1</id>
+        <publicKey>
+            MIIDzzCCAregAwIBAgIBATANBgkqhkiG9w0BAQUFADA9MQswCQYDVQQGEwJTSzENMAsGA1UEChMEWlNTSzENMAsGA1UECxMESUtWQzEQMA4GA1UEAxMHQ0EtSUtWQzAeFw0xMzEyMzEyMzAwMDBaFw0xNjAzMzEyMjU5NTlaMD8xCzAJBgNVBAYTAlNLMQ0wCwYDVQQKEwRaU1NLMQ0wCwYDVQQLEwRJS1ZDMRIwEAYDVQQDEwkxMTU2MDAwMDEwggG1MIIBLAYHKoZIzjgEATCCAR8CgYEA6gKFyw+QRFFl5pdI06TWs+/cx9bWkpYrTHWVjRA7F7c5vVN5QRqdgrSA7LaszOzgV0962iZyS9/3NNUO7mN8w/bttTOkZXWnFlONGjh2F0KhF6KOnFMwlCKpV01vxkAmvkKk41jKhFoqh1rHD9hLleH0PLL71BfLO1Tthg1NM1cCFQDCp4jucNnSaZoCqqwWAaEddD/PAQKBgQCYE1jS/2iVVJUfqdTb/MAc5w56P57XHGvGEkwszxFZihinBGxnIith/DocFr4s1KmxEokvtHwiQOmTxtxZz8FcRyuQInePZSm/FXJAlpqeCKazC/K0Rq7HTFeaOOBSD0fXOXajixlgmKY/zlncIRPfp+wgmwXKNWKREi+yRZ6jLQOBggACf0J50YyotuXim0bSilYZJmR/2iSQmQni/26ivRmQeba8C9lVc3QKXd6esEAsirrnRM79K6HyWKc5IdkpqxulYtiu/PtHI7ccZLElqHva5XXCcuiImNi0kG8G5MJwZgeD2Mqg+WcnIXhd8QPz5XuPcyJ1pEc5qHNkwTrQkTX9of2jRTBDMBMGA1UdIwQMMAqACL6jyUdgIQv0MAkGA1UdEwQCMAAwDgYDVR0PAQH/BAQDAgSQMBEGA1UdDgQKBAjVbedP2C1f+DANBgkqhkiG9w0BAQUFAAOCAQEAxfhV/yUvsDvztqZ1ogYvEuqKeRmUnLzEhlftLOyrYTT3zQ3u5g9eE5SiygGElzDJDqY1BEio2c5LyoRzi34vaZRFCTcC1hzZFoMZIWatFGG+TmDYWKpVFIMj+ToDCecNHbhAS4u+kWjBkGNKwrNUPTLkSAs2x/886iOaNAxkhi+XpHuMrtLBFi24xazgF/ivUs6IiFV/5RGgnar7LM8c/stG72yjp1b1is2vSRl6ozxd2CYNZrdbbj9Ys/1dPvjagqDTkHRwgOyFfd1zC6KtAJK8Mp9+nMGEeVBwn3Ttfc6Ikb1E4cWBsGAX/m/LeiGyoEsYSv5lgmRWRcq7OcFCoA==
+        </publicKey>
+        <barcodeVersion>1</barcodeVersion>
+        <startDate>2014-01-01</startDate>
+        <endDate>2016-04-01</endDate>
+        <barcodeXsd />
+        <allowedProductOwnerCodes />
+        <keyForged />
+        <commentForEncryptionType />
+    </key>
+    <key>
+        <issuerName>OBB</issuerName>
+        <issuerCode>1181</issuerCode>
+        <versionType>UIC 918-3</versionType>
+        <signatureAlgorithm>SHA1-DSA (1024)</signatureAlgorithm>
+        <id>4</id>
+        <publicKey>
+            MIIDUTCCAxACAQMwCQYHKoZIzjgEAzCBkTELMAkGA1UEBhMCQVQxDzANBgNVBAgTBlZpZW5uYTEPMA0GA1UEBxMGVmllbm5hMQ0wCwYDVQQKEwRPRUJCMRgwFgYDVQQLEw9QZXJzb25lbnZlcmtlaHIxEDAOBgNVBAMTB09FQkIgUFYxJTAjBgkqhkiG9w0BCQEWFm1mdC5zZXJ2aWNlQHB2Lm9lYmIuYXQwHhcNMTUwMjI0MTUyMjEyWhcNMTcwOTA4MTUyMjEyWjCBkTELMAkGA1UEBhMCQVQxDzANBgNVBAgTBlZpZW5uYTEPMA0GA1UEBxMGVmllbm5hMQ0wCwYDVQQKEwRPRUJCMRgwFgYDVQQLEw9QZXJzb25lbnZlcmtlaHIxEDAOBgNVBAMTB09FQkIgUFYxJTAjBgkqhkiG9w0BCQEWFm1mdC5zZXJ2aWNlQHB2Lm9lYmIuYXQwggG2MIIBKwYHKoZIzjgEATCCAR4CgYEArgqlHDfFX2anNr6EA3EieO8HlOVmET3Vv+pSOnqqpK+zYvx+xdlbuF/e8b4YJSEFIOKODK5lHxXm16OYcG+Kr5fgqUmekQWRGmX3AEJ/yCtFaAQYOEX+pnVhxutlt2jdfqTF4wxqeUH8/c/VZPoF7P6fSjjZwWdG7sbcINglMrMCFQD7Vum2ARfEeciVI0PK1zoo+q69/wKBgHPFEYZnOiNPAb+IUe9HBt2efISV+sQUHxskR3ElczNJ1HVFhIF8KGbDVxfX0ldxi5JK2kOjxrmSJWvZvvR971VB5+iZdKUgbyCdJJanW891TiMTqur11X9Lvd75OZxFNiWLxcS/K3G5/vIj3mkWMoJS0KATLroDB755Ig8eLz2OA4GEAAKBgB3zyBSTa1SCQyiaRMA2cgNFZrrKOSweicWJfzytJrYB4CJwDObxwAY0SXGH/ov2Ioq5dvSLglVO/mh+TlJgnGg2f8dqeQrZFTbUBPzNlJg+Qq+lNIF8Jj1SexQNvrP3/IDoeCN551eTiMvnub+cLGtIZYdHkAaEXH5+cp/MGQrWMAkGByqGSM44BAMDMAAwLQIUDC76FJ0MZAqXE394m8NCsfiSyGUCFQCq9deLdpvsZQlCvXjGLZkaj1Fvzg==
+        </publicKey>
+        <barcodeVersion>1</barcodeVersion>
+        <startDate>2015-02-24</startDate>
+        <endDate>2017-09-08</endDate>
+        <barcodeXsd />
+        <allowedProductOwnerCodes />
+        <keyForged />
+        <commentForEncryptionType />
+    </key>
+    <key>
+        <issuerName>SNCF</issuerName>
+        <issuerCode>1187</issuerCode>
+        <versionType>UIC918-2SNCF</versionType>
+        <signatureAlgorithm>(SHA-1, DSA 1024, Base16+11 Hexa Encoded (so stored as Ascii
+            alphanumeric string), without ASN1)
+        </signatureAlgorithm>
+        <id>4</id>
+        <publicKey>
+            MIIDczCCAzGgAwIBAgIJAKFp3IeRLFiEMAkGByqGSM44BAMwcjELMAkGA1UEBhMCRlIxDDAKBgNVBAgMA0lERjEUMBIGA1UEBwwLU2FpbnQtRGVuaXMxFzAVBgNVBAoMDjAwMDIgNTUyMDQ5NDQ3MQ0wCwYDVQQLDARTTkNGMRcwFQYDVQQDDA5ETTc4ODMtTlNHQVRFUzAeFw0xNTAzMzExNDUzMjhaFw0xODAzMzAxNDUzMjhaMHIxCzAJBgNVBAYTAkZSMQwwCgYDVQQIDANJREYxFDASBgNVBAcMC1NhaW50LURlbmlzMRcwFQYDVQQKDA4wMDAyIDU1MjA0OTQ0NzENMAsGA1UECwwEU05DRjEXMBUGA1UEAwwORE03ODgzLU5TR0FURVMwggG4MIIBLAYHKoZIzjgEATCCAR8CgYEA11cmLEWExEwhHxi9luXwYcTwpCP3/mtrhbNM73LOFKDTpSIv4Izs5lvmwmWFSIncHtvRPsiydNqfdbomzLmHcjYCeH6SK6hEIfIsPInLmwb9YP4BlB3dd/5rEok9p27rwdEo2X8GeNdyK1NByFBvNYIUsWovrEs2iVA4eBHH2jMCFQDHcyGMc37I7pk7Ty3tMPSO2s6RXwKBgQCCJpAJ4U7EdLryky5p07HxhRetlZQYTM386uluxNXvkxM+hLRwk8UrIM010CSSs5WexkmWJbxPpQguIsWzdOFt0AEyznGwICFwkaxxe2EjkcdsH7LogxfBvYFx1B7Lg+IQwDzJsy6BBWHCFiHHPW2qwCj0sVhdp/QlGXGMybCe7wOBhQACgYEAqcxokethT2mpnR/G+Bg5hCVel1avgmziEByHjcjTPf/d3J/cT7ZJytjNTTw+mztoKR7lhKx8im5lsfQsTB4ivWwl9AhgrxN22/RDclday9mGNmJ9ngS9TqJEQ2CuTAT6+Re4S/AcZjm3kp4nMYa7iNxJ8E3P3VAP37MzVbIaeO6jUDBOMB0GA1UdDgQWBBSZVcKLMoxvFNi875KpG6dYe41odjAfBgNVHSMEGDAWgBSZVcKLMoxvFNi875KpG6dYe41odjAMBgNVHRMEBTADAQH/MAkGByqGSM44BAMDMQAwLgIVALrl/jTC0wGr+BiWSYBAiCosLHzTAhUAxDeMb4vCGg0Es2qY5git1axeb+s=
+        </publicKey>
+        <barcodeVersion>2</barcodeVersion>
+        <startDate>2015-03-31</startDate>
+        <endDate>2018-03-30</endDate>
+        <barcodeXsd />
+        <allowedProductOwnerCodes />
+        <keyForged />
+        <commentForEncryptionType>SNCF-NSGates-15030CERT.pem</commentForEncryptionType>
+    </key>
+    <key>
+        <issuerName>NS</issuerName>
+        <issuerCode>1184</issuerCode>
+        <versionType>UIC 918-3</versionType>
+        <signatureAlgorithm />
+        <id>3</id>
+        <publicKey>
+            MIIDKjCCAuigAwIBAgIEUx8inDALBgcqhkjOOAQDBQAweDELMAkGA1UEBhMCQkUxEDAOBgNVBAgTB0JyYWJhbnQxETAPBgNVBAcTCEJydXNzZWxzMRAwDgYDVQQKEwdTeW50aWdvMRQwEgYDVQQLEwtEZXZlbG9wbWVudDEcMBoGA1UEAxMTUGFzc2VuZ2VyIFNvbHV0aW9uczAeFw0xNDAzMTExNDUwMDRaFw0xNzA3MDExNDUwMDRaMHgxCzAJBgNVBAYTAkJFMRAwDgYDVQQIEwdCcmFiYW50MREwDwYDVQQHEwhCcnVzc2VsczEQMA4GA1UEChMHU3ludGlnbzEUMBIGA1UECxMLRGV2ZWxvcG1lbnQxHDAaBgNVBAMTE1Bhc3NlbmdlciBTb2x1dGlvbnMwggG4MIIBLAYHKoZIzjgEATCCAR8CgYEA/X9TgR11EilS30qcLuzk5/YRt1I870QAwx4/gLZRJmlFXUAiUftZPY1Y+r/F9bow9subVWzXgTuAHTRv8mZgt2uZUKWkn5/oBHsQIsJPu6nX/rfGG/g7V+fGqKYVDwT7g/bTxR7DAjVUE1oWkTL2dfOuK2HXKu/yIgMZndFIAccCFQCXYFCPFSMLzLKSuYKi64QL8Fgc9QKBgQD34aCF1ps93su8q1w2uFe5eZSvu/o66oL5V0wLPQeCZ1FZV4661FlP5nEHEIGAtEkWcSPoTCgWE7fPCTKMyKbhPBZ6i1R8jSjgo64eK7OmdZFuo38L+iE1YvH7YnoBJDvMpPG+qFGQiaiD3+Fa5Z8GkotmXoB7VSVkAUw7/s9JKgOBhQACgYEAp3ahr0Hmd3MEBuHUSBU5BpUrmXu5kxXvmnqmCpmvHNFasTvFnCgc8QTVd51/M715PrS/XICCLUei1bTlA1jdMFOsyuo0ot6HJ3gcrN+BOnB889oKyDTh1nIBPt3hIHf274EV3boX03tf5RRyFvYV5ZQLLd/byQK/2UtO3AldIOQwCwYHKoZIzjgEAwUAAy8AMCwCFHzLxsKw0mb0ydN9c3eS4x7igxe4AhQa3/+DS+UwXvcbWnZia7kVogkKZw==
+        </publicKey>
+        <barcodeVersion>1</barcodeVersion>
+        <startDate>2014-03-11</startDate>
+        <endDate>2017-07-01</endDate>
+        <barcodeXsd />
+        <allowedProductOwnerCodes />
+        <keyForged />
+        <commentForEncryptionType />
+    </key>
+    <key>
+        <issuerName>SNCB</issuerName>
+        <issuerCode>1088</issuerCode>
+        <versionType>UIC 918-3</versionType>
+        <signatureAlgorithm />
+        <id>2</id>
+        <publicKey>
+            MIIDHzCCAtwCBEaKGWwwCwYHKoZIzjgEAwUAMHUxCzAJBgNVBAYTAkJFMRAwDgYDVQQIEwdCcmFiYW50MRIwEAYDVQQHEwlCcnV4ZWxsZXMxEDAOBgNVBAoTB1N5bnRpZ28xDTALBgNVBAsTBE5NQlMxHzAdBgNVBAMTFlZhbiBIZWRkZWdoZW0gRnJlZGVyaWswHhcNMDcwNzAzMDkzOTU2WhcNMTcwNjMwMDkzOTU2WjB1MQswCQYDVQQGEwJCRTEQMA4GA1UECBMHQnJhYmFudDESMBAGA1UEBxMJQnJ1eGVsbGVzMRAwDgYDVQQKEwdTeW50aWdvMQ0wCwYDVQQLEwROTUJTMR8wHQYDVQQDExZWYW4gSGVkZGVnaGVtIEZyZWRlcmlrMIIBtzCCASwGByqGSM44BAEwggEfAoGBAP1/U4EddRIpUt9KnC7s5Of2EbdSPO9EAMMeP4C2USZpRV1AIlH7WT2NWPq/xfW6MPbLm1Vs14E7gB00b/JmYLdrmVClpJ+f6AR7ECLCT7up1/63xhv4O1fnxqimFQ8E+4P208UewwI1VBNaFpEy9nXzrith1yrv8iIDGZ3RSAHHAhUAl2BQjxUjC8yykrmCouuEC/BYHPUCgYEA9+GghdabPd7LvKtcNrhXuXmUr7v6OuqC+VdMCz0HgmdRWVeOutRZT+ZxBxCBgLRJFnEj6EwoFhO3zwkyjMim4TwWeotUfI0o4KOuHiuzpnWRbqN/C/ohNWLx+2J6ASQ7zKTxvqhRkImog9/hWuWfBpKLZl6Ae1UlZAFMO/7PSSoDgYQAAoGAJYvFGHbnF/xB1Qj2MGmPUqf6nGPXqtzCm0KMwKU9V+jCxqhPag4qHBMkXNS4c2mGQysvI3yOQposiADR9TQKhX2UDTsdNi6tCBusT8duNfa3FdpborKa/i2dMthftESn3VVtyBYRxj6ECrZW6vc+Dr49tjZty28pxwGiAoPjZngwCwYHKoZIzjgEAwUAAzAAMC0CFQCOASRYH+XlHCu0MTukfJDSDc1bvwIUCZ57YFeow8tAGt3+RixhLQe3cGg=
+        </publicKey>
+        <barcodeVersion>1</barcodeVersion>
+        <startDate>2007-07-03</startDate>
+        <endDate>2017-06-30</endDate>
+        <barcodeXsd />
+        <allowedProductOwnerCodes />
+        <keyForged />
+        <commentForEncryptionType>This public key must be used both for SNCB UIC 918.3v1 and UIC
+            918.2v3 barcodes.
+        </commentForEncryptionType>
+    </key>
+    <key>
+        <issuerName>CFL</issuerName>
+        <issuerCode>82</issuerCode>
+        <versionType>UIC 918-3</versionType>
+        <signatureAlgorithm />
+        <id>1</id>
+        <publicKey>
+            MIIDHzCCAt0CBEaKGZ0wCwYHKoZIzjgEAwUAMHUxCzAJBgNVBAYTAkJFMRAwDgYDVQQIEwdCcmFiYW50MRIwEAYDVQQHEwlCcnV4ZWxsZXMxEDAOBgNVBAoTB1N5bnRpZ28xDTALBgNVBAsTBE5NQlMxHzAdBgNVBAMTFlZhbiBIZWRkZWdoZW0gRnJlZGVyaWswHhcNMDcwNzAzMDk0MDQ1WhcNMTcwNjMwMDk0MDQ1WjB1MQswCQYDVQQGEwJCRTEQMA4GA1UECBMHQnJhYmFudDESMBAGA1UEBxMJQnJ1eGVsbGVzMRAwDgYDVQQKEwdTeW50aWdvMQ0wCwYDVQQLEwROTUJTMR8wHQYDVQQDExZWYW4gSGVkZGVnaGVtIEZyZWRlcmlrMIIBuDCCASwGByqGSM44BAEwggEfAoGBAP1/U4EddRIpUt9KnC7s5Of2EbdSPO9EAMMeP4C2USZpRV1AIlH7WT2NWPq/xfW6MPbLm1Vs14E7gB00b/JmYLdrmVClpJ+f6AR7ECLCT7up1/63xhv4O1fnxqimFQ8E+4P208UewwI1VBNaFpEy9nXzrith1yrv8iIDGZ3RSAHHAhUAl2BQjxUjC8yykrmCouuEC/BYHPUCgYEA9+GghdabPd7LvKtcNrhXuXmUr7v6OuqC+VdMCz0HgmdRWVeOutRZT+ZxBxCBgLRJFnEj6EwoFhO3zwkyjMim4TwWeotUfI0o4KOuHiuzpnWRbqN/C/ohNWLx+2J6ASQ7zKTxvqhRkImog9/hWuWfBpKLZl6Ae1UlZAFMO/7PSSoDgYUAAoGBANMqBvU9YoESJ8dWEgQVVCpUcJBj9SM1fU3tcaXl3eSyS/XRfDhfbt+bNBSsg1TCif5bl/0dcrPeQa+gwCahF4HB7v8GPDxQypuEev14g9nMKYzzQJ2MxjcU+8QX6mmmLrQ2PK5YtZT0xblimB1n4qLJsdOUvscahyZyyu9QYSFTMAsGByqGSM44BAMFAAMvADAsAhRA/uJndS0jxJA698XA9pMoLmp95QIUHlVYVocp5sp8bk2XXUg3LyR9Kz8=
+        </publicKey>
+        <barcodeVersion>1</barcodeVersion>
+        <startDate>2007-07-03</startDate>
+        <endDate>2017-06-30</endDate>
+        <barcodeXsd />
+        <allowedProductOwnerCodes />
+        <keyForged />
+        <commentForEncryptionType />
+    </key>
+</keys>
