@@ -11,12 +11,12 @@ Java Source is compatible with Android and thus at Java 1.7 language level.
 This library is beta quality - it's nowhere feature complete but has fairly mature parsing capabilities. It is currently used by the [MyFirstRailpocket app](https://play.google.com/store/apps/details?id=nl.waarisdetrein.myfirstrailpocket), available on Google Play.
 
 ### Implemented
-* Support for 918.2 tickets
+* Support for 918.3 tickets
 * Support for RCT2 field encoding and limited support for EOSU standard
 
 ### Missing
 * Support for reading and verifying the digital signature of tickets
-* Support for 918.3 tickets/barcodes
+* Support for 918.2 tickets/barcodes
 
 ## Usage
 Build and import this library in your application, for instance by specifying it in your gradle build file:
