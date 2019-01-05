@@ -8,9 +8,9 @@ import java.util.List;
  */
 public class TicketContents extends TicketBlock {
 
-    String standard;
-    int numberOfFields;
-    List<TicketField> fields = new ArrayList<>();
+    private String standard;
+    private int numberOfFields;
+    private List<TicketField> fields = new ArrayList<>();
 
     public String getStandard() {
         return standard;

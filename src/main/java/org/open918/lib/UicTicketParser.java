@@ -1,16 +1,12 @@
 package org.open918.lib;
 
-import org.open918.lib.domain.Rct2Format;
-import org.open918.lib.domain.Ticket;
-import org.open918.lib.domain.TicketField;
-import org.open918.lib.domain.TicketFlag;
+import org.open918.lib.domain.*;
 import org.open918.lib.util.ZxingUtil;
 
+import java.nio.charset.Charset;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 import java.util.zip.DataFormatException;
 import java.util.zip.Inflater;
 
@@ -54,9 +50,18 @@ public class UicTicketParser {
         s.setCompressedMessage(Arrays.copyOfRange(data, 68, data.length - 1));
         s.setMessage(decompress(s.getCompressedMessage(), s.getMessageLength() - 1));
 
-        transformBlock(s, new String(s.getMessage()));
+        try {
+            tryParse(s, "UTF-8");
+        } catch(Exception e) {
+            // All kinds of bad things happen this way, but some tickets are encoded ASCII
+            tryParse(s, "ASCII");
+        }
 
         return s;
+    }
+
+    private static void tryParse(Ticket s, String charset) throws ParseException {
+        transformBlocks(s, new String(s.getMessage(), Charset.forName(charset)));
     }
 
     private static byte[] decompress(byte[] bytesToDecompress, int numberOfBytesToDecompress) throws DataFormatException {
@@ -107,8 +112,9 @@ public class UicTicketParser {
 
         offset += 14;
         // TODO: This could be read as a stream, meaning not trusting "numberOfFields"
-        // TODO: Number of Fields could be wrong, white length is right
+        // TODO: Number of Fields could be wrong, while length is right
         for (int i = 0; i < s.getContents().getNumberOfFields(); i++) {
+            System.out.println("Reading field "+i);
             if (body.substring(offset).contentEquals("")) {
                 // TODO: Log - this actually might be an illegal ticket as number of fields is too big
                 break;
@@ -134,7 +140,9 @@ public class UicTicketParser {
             f.setLength(len);
 
             f.setText(getString(body, offset, 0, f.getLength()));
+            System.out.println(f.getLine()+ " "+f.getColumn()+ " "+f.getHeight()+ " "+f.getWidth()+ " " + f.getLength() +" = "+f.getText());
             offset += f.getLength();
+
 
             s.getContents().getFields().add(f);
         }
@@ -142,35 +150,55 @@ public class UicTicketParser {
         return offset;
     }
 
-    private static void transformBlock(Ticket s, String body) throws ParseException{
+    private static void transformBlocks(Ticket s, String body) throws ParseException{
         int offset = 0;
         while (offset < body.length()){
             String type = body.substring(offset, offset + TICKET_BLOCK_NAME_LENGTH);
-            if ("U_HEAD".equals(type)){
-                offset = parseHeader(s, body, offset + TICKET_BLOCK_NAME_LENGTH);
-            } else if ("U_TLAY".equals(type)){
-                offset = parseFields(s, body, offset + TICKET_BLOCK_NAME_LENGTH);
-            } else {
-                // TODO: We should probably handle other blocks too, if they exist
-                offset = parseFields(s, body, offset + TICKET_BLOCK_NAME_LENGTH);
-                //break;
+            switch (type) {
+                case "U_HEAD":
+                    offset = parseHeader(s, body, offset + TICKET_BLOCK_NAME_LENGTH);
+                    break;
+                case "U_TLAY":
+                    offset = parseFields(s, body, offset + TICKET_BLOCK_NAME_LENGTH);
+                    break;
+                default:
+                    offset = parseOtherBlock(s, type, body, offset + TICKET_BLOCK_NAME_LENGTH);
+                    break;
             }
         }
     }
 
-    private static String getString(String body, int offset, int start, int end) {
-        if (offset+end > body.length()) {
-            throw new IllegalArgumentException("Reference to invalid field, data is too short");
+    /*
+    Parse an unknown or custom block
+     */
+    private static int parseOtherBlock(Ticket s, String type, String body, int offset) {
+        TicketBlock b = new TicketBlock();
+        b.setType(type);
+        b.setVersion(getInteger(body, offset, 0, 2));
+        b.setLength(getInteger(body, offset, 2, 6));
+
+        if (type.startsWith("0080")) {
+            b.setLength(b.getLength() - 12); // It seems the header is subtracted from the body length...
         }
-        return body.substring(offset + start, offset + end);
+
+        b.setBody(getString(body, offset, 6, 6 + b.getLength()));
+        s.getBlocks().add(b);
+
+        // TODO: Add parsers for this
+//        if (b.getType().equals("0080VU")) {
+//            UicStarBlockParser.decode(b.getBody().getBytes());
+//        }
+        return offset + 6 + b.getLength();
+    }
+
+    private static String getString(String body, int offset, int start, int end) {
+        // TODO: Record illegal argument if body.length?
+        return body.substring(Math.min(offset + start, body.length()), Math.min(offset + end, body.length()));
     }
 
     private static Integer getInteger(String body, int offset, int start, int end) {
-        if (offset+end > body.length()) {
-            throw new IllegalArgumentException("Reference to invalid field, data is too short");
-        }
-        String result = body.substring(offset + start, offset + end).replaceAll("[^\\d.]", "");
-        return (!result.isEmpty()) ? Integer.valueOf(result) : 0;
+        String result = getString(body, offset, start, end).replaceAll("[^\\d.]", "");
+        return (!result.isEmpty()) ? Integer.valueOf(result.replace(".0", "")) : 0;
     }
 
 }

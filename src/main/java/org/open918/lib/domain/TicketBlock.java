@@ -6,8 +6,18 @@ package org.open918.lib.domain;
  */
 public class TicketBlock {
 
-    int version;
-    int length;
+    private String type;
+    private int version;
+    private int length;
+    String body;
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
+    }
 
     public int getVersion() {
         return version;
@@ -25,6 +35,13 @@ public class TicketBlock {
         this.length = length;
     }
 
+    public String getBody() {
+        return body;
+    }
+
+    public void setBody(String body) {
+        this.body = body;
+    }
 }
 
 

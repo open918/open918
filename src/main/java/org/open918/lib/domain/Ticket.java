@@ -1,18 +1,23 @@
 package org.open918.lib.domain;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Ticket {
 
-    String messageType;
-    int messageTypeVersion;
-    int ricsCode;
-    String signatureKeyId;
-    String signature;
-    int messageLength;
-    byte[] compressedMessage;
-    byte[] message;
+    private String messageType;
+    private int messageTypeVersion;
+    private int ricsCode;
+    private String signatureKeyId;
+    private String signature;
+    private int messageLength;
+    private byte[] compressedMessage;
+    private byte[] message;
 
-    TicketHeader header = new TicketHeader();
-	TicketContents contents = new TicketContents();
+    private TicketHeader header = new TicketHeader();
+	private TicketContents contents = new TicketContents();
+
+	private List<TicketBlock> blocks = new ArrayList<>();
 
 	public String getMessageType() {
 		return messageType;
@@ -92,5 +97,9 @@ public class Ticket {
 
 	public void setContents(TicketContents contents) {
 		this.contents = contents;
+	}
+
+	public List<TicketBlock> getBlocks() {
+		return blocks;
 	}
 }

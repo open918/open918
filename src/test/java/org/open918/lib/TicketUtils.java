@@ -15,9 +15,14 @@ import javax.xml.bind.DatatypeConverter;
 public class TicketUtils {
 
     public static Ticket getTicket(String base64) throws DataFormatException, ParseException {
-        byte[] encodedHelloBytes = DatatypeConverter.parseBase64Binary(base64);
-        String decodedBase64 = new String(encodedHelloBytes, StandardCharsets.UTF_8) ;
+        return UicTicketParser.decode(fromBase64(base64), true);
+    }
 
-        return UicTicketParser.decode(decodedBase64, true);
+    public static String fromBase64(String base64) {
+        byte[] encodedHelloBytes = DatatypeConverter.parseBase64Binary(base64);
+        return new String(encodedHelloBytes, StandardCharsets.UTF_8);
+    }
+    public static byte[] fromBase64AsBytes(String base64) {
+        return DatatypeConverter.parseBase64Binary(base64);
     }
 }
