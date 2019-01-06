@@ -7,6 +7,7 @@ public enum Carrier {
 
     EUROSTAR(19, "Eurostar"),
     DB(1180, "DB"),
+    DB_ALT(80, "DB"),
     NS(1184, "NS"),
     DSB(1186, "DSB"),
     OBB(1181, "OBB"),
