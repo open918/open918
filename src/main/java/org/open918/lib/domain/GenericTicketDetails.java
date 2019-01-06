@@ -5,23 +5,27 @@ package org.open918.lib.domain;
  */
 public class GenericTicketDetails {
 
-    String ticketTitle;
+    private String ticketTitle;
 
-    String validity;
+    private String validity;
 
-    String passengerName;
+    private String passengerName;
 
-    String outwardDeparture;
-    String outwardArrival;
+    private String outwardDeparture;
+    private String outwardArrival;
 
-    String returnDeparture;
-    String returnArrival;
+    private String returnDeparture;
+    private String returnArrival;
 
-    String travelClass;
+    private String travelClass;
 
-    String routeDetails;
+    private String routeDetails;
 
-    String price;
+    private String price;
+
+    public boolean hasMinimalData() {
+        return ticketTitle != null || validity != null || passengerName != null || price != null;
+    }
 
     public String getTicketTitle() {
         return ticketTitle;
