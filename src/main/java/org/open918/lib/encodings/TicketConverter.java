@@ -1,7 +1,7 @@
 package org.open918.lib.encodings;
 
 import org.open918.lib.domain.GenericTicketDetails;
-import org.open918.lib.domain.TicketField;
+import org.open918.lib.domain.uic918_3.TicketField;
 
 import java.util.List;
 

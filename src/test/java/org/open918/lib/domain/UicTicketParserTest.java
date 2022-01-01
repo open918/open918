@@ -1,8 +1,9 @@
-package org.open918.lib;
+package org.open918.lib.domain;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.open918.lib.domain.Ticket;
+import org.open918.lib.Uic918Dash3TicketParser;
+import org.open918.lib.domain.uic918_3.Ticket918Dash3;
 
 import java.text.ParseException;
 
@@ -15,8 +16,8 @@ public class UicTicketParserTest {
     @Test
     public void testParseHeader() throws ParseException {
         String header = "U_HEAD0100531184           133012.002504201510086NLEN";
-        Ticket s = new Ticket();
-        int offset = UicTicketParser.parseHeader(s, header, 6);
+        Ticket918Dash3 s = new Ticket918Dash3();
+        Uic918Dash3TicketParser.parseHeader(s, header, 6);
         Assert.assertEquals("           133012.00", s.getHeader().getOrderNumber());
     }
 

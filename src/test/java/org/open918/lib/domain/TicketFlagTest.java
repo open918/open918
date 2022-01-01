@@ -1,6 +1,7 @@
 package org.open918.lib.domain;
 
 import org.junit.Test;
+import org.open918.lib.domain.uic918_3.TicketFlag;
 
 import java.util.EnumSet;
 

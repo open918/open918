@@ -1,4 +1,4 @@
-package org.open918.lib.domain;
+package org.open918.lib.domain.uic918_3;
 
 import java.util.EnumSet;
 import java.util.HashSet;
