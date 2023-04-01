@@ -6,8 +6,11 @@ import org.open918.lib.UicStarBlockParser;
 import org.open918.lib.domain.Ticket;
 import org.open918.lib.domain.TicketStandard;
 import org.open918.lib.domain.uic918_3.Ticket918Dash3;
+import org.open918.lib.domain.uic918_3.TicketContents;
 
 import java.text.ParseException;
+import java.util.Comparator;
+import java.util.List;
 import java.util.zip.DataFormatException;
 
 import static org.junit.Assert.assertEquals;
@@ -33,9 +36,12 @@ public class Uic9183StarConverterTest {
         assertEquals(s.getStandard(), TicketStandard.TICKET918_3);
         Ticket918Dash3 t = (Ticket918Dash3) s;
         assertEquals(3, t.getBlocks().size());
-        assertEquals("0080ID", t.getBlocks().get(0).getType());
-        assertEquals("0080BL", t.getBlocks().get(1).getType());
-        assertEquals("0080VU", t.getBlocks().get(2).getType());
+        List<TicketContents> blocks = t.getBlocks();
+        blocks.sort(Comparator.comparing(TicketContents::getType));
+        assertEquals("0080BL", blocks.get(0).getType());
+        assertEquals("0080ID", blocks.get(1).getType());
+        assertEquals("020018012009", blocks.get(1).getRawContents());
+        assertEquals("0080VU", blocks.get(2).getType());
     }
 
     @Test

@@ -12,6 +12,8 @@ public class TicketContents extends TicketBlock {
     private int numberOfFields;
     private List<TicketField> fields = new ArrayList<>();
 
+    private String rawContents;
+
     public String getStandard() {
         return standard;
     }
@@ -34,5 +36,13 @@ public class TicketContents extends TicketBlock {
 
     public void setFields(List<TicketField> fields) {
         this.fields = fields;
+    }
+
+    public String getRawContents() {
+        return rawContents;
+    }
+
+    public void setRawContents(String rawContents) {
+        this.rawContents = rawContents;
     }
 }

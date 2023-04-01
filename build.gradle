@@ -9,7 +9,7 @@ plugins {
 group 'org.open918'
 version '1.2-'+versioning.info.commit.substring(0, 8)
 
-sourceCompatibility = 1.7
+sourceCompatibility = 1.8
 
 repositories {
     mavenCentral()

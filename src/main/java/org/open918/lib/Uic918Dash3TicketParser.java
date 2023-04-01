@@ -79,10 +79,17 @@ public class Uic918Dash3TicketParser {
     static int parseFields(Ticket918Dash3 s, String body, int initialOffset, String type) throws ParseException {
         TicketContents contents = new TicketContents();
         int offset = initialOffset;
+        contents.setType(type);
         contents.setVersion(Strings.getInteger(body, offset, 0, 2));
         contents.setLength(Strings.getInteger(body, offset, 2, 6));
-        contents.setStandard(Strings.getString(body, offset, 6, 10));
 
+        // This should be a safe offset, error if we go above this
+        // Subtract 6 for type, and we should be fine again
+        int maxOffset = initialOffset + contents.getLength() - 6;
+        contents.setRawContents(body.substring(offset, maxOffset));
+
+        // Anything past this point is disputable I think?
+        contents.setStandard(Strings.getString(body, offset, 6, 10));
         contents.setNumberOfFields(Strings.getInteger(body, offset, 10, 14));
 
         try {
@@ -126,12 +133,15 @@ public class Uic918Dash3TicketParser {
                 checkReplaceSpecialChar(body, offset, f, "\u00DF");
 
                 offset += f.getLength();
+                if (offset > maxOffset) {
+                    throw new IllegalAccessException("We're past the point of no return, this must not be a block with ticket fields");
+                }
 
                 contents.getFields().add(f);
             }
         } catch (Exception e) {
-            // If anything happens, continue with the length we were given
-            offset = initialOffset + contents.getLength() - 6; // Subtract 6 for type, and we should be fine again
+            // TODO: What do we do here
+
         }
         // Add what we do have..
         if (type.contentEquals(TICKET_FIELDS)) {
@@ -139,7 +149,8 @@ public class Uic918Dash3TicketParser {
         } else {
             s.addBlock(type, contents);
         }
-        return offset;
+        // We continue with the length we were given
+        return maxOffset;
     }
 
     private static void checkReplaceSpecialChar(String body, int offset, TicketField f, String special) {
