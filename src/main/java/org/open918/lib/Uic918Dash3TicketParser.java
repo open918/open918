@@ -94,8 +94,6 @@ public class Uic918Dash3TicketParser {
 
         try {
             offset += 14;
-            // TODO: This could be read as a stream, meaning not trusting "numberOfFields"
-            // TODO: Number of Fields could be wrong, while length is right
             for (int i = 0; i < contents.getNumberOfFields(); i++) {
                 if (body.substring(offset).contentEquals("")) {
                     // TODO: Log - this is an incorrectly formatted ticket as number of fields is too big
