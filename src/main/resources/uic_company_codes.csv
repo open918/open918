@@ -1,82 +1,82 @@
-﻿code;short name;full name;country;url
-0006;StL Holland;Stena Line Holland BV;NL;http://www.stenaline.nl/ferry/
-0010;VR;VR-Yhtymä Oy;FI;http://www.vr.fi/
-0012;TRFSA;Transfesa;ES;http://www.transfesa.com/
-0013;OSJD;OSJD;PL;http://osjd.org/
-0014;CWL;Compagnie des Wagons-Lits;FR;http://www.cwl-services.com/
-0015;RMF;Rail Manche Finance;GB;http://www.rmf.co.uk/
-0016;RD;RAILDATA;CH;http://www.raildata.coop/
-0017;ENS;European Night Services Ltd;GB;
-0018;THI Factory;THI Factory SA;BE;http://www.thalys.com/
-0019;Eurostar I;Eurostar International Limited;GB;http://www.eurostar.com/
-0020;OAO RZD;Joint Stock Company 'Russian Railways';RU;http://rzd.ru/
-0021;BC;Belarusian Railways;BY;http://www.rw.by/
-0022;UZ;Ukrainski Zaliznytsi;UA;http://uz.gov.ua/
-0023;CFM;Calea Ferată din Moldova;MD;http://railway.md/
-0024;LTG;AB 'Lietuvos geležinkeliai';LT;http://www.litrail.lt/
-0025;LDZ;Latvijas dzelzceļš;LV;http://www.ldz.lv/
-0026;EVR;Aktsiaselts Eesti Raudtee;EE;http://www.evr.ee/
-0027;KTZ;Kazakhstan Temir Zholy;KZ;http://www.railway.ge/
-0028;GR;Sakartvelos Rkinigza;GE;http://railway.ge/
-0029;UTI;Uzbekistan Temir Yullari;UZ;http://www.uzrailway.uz/
-0030;ZC;Railways of D.P.R.K.;KP;
-0031;UBTZ;Mongolian-Russian Joint-Stock Company “Ulaanbaatar railway”;MN;http://www.ubtz.mn
-0032;DSVN;đường sắt Việt Nam;VN;http://www.vr.com.vn/
-0033;CR;Chinese Railways;CN;http://www.chineserailways.com/
-0041;HSH;Hekurudha Shqiptarë SH.A.;AL;http://www.hsh.com.al/
-0042;JR-E;East Japan Railway Company;;
-0043;GySEV/Raaberbahn;Győr-Sopron-Ebenfurti Vasút Zrt.;HU;http://www2.gysev.hu/
-0044;ŽRS;Željeznice Republike Srpske;BA;http://www.zrs-rs.com/
-0050;ŽFBH;J.P. Željeznice Federacije BiH d.o.o.;BA;http://www.zfbh.ba/
-0051;PKP PLK S.A.;PKP Polskie Linie Kolejowe S.A.;PL;http://www.plk-sa.pl/
-0052;NRIC;National Railway Infrastructure Company;BG;http://rail-infra.bg/
-0053;CFR SA;Compania Naţională de Căi Ferate Române;RO;http://www.cfr.ro/
-0054;SZCZ;Správa železnic, statni organizace;CZ;https://www.spravazeleznic.cz/
-0055;MÁV;Magyar Államvasutak Zrt.;HU;http://www.mav.hu/
-0056;ŽSR;Železnice Slovenskej Republiky;SK;http://www.zsr.sk/
-0057;AZ-ADDY;Azərbaycan Dövlət Dəmir Yolu;AZ;http://www.railway.gov.az/
-0058;CJSC SCR;South Caucasus Railway CJSC;AM;http://www.ukzhd.am/
-0059;KTJ;Kyrgyz Railways;KG;http://www.ktj.kg/
-0060;CIE;Córas Iompair Éireann;IE;http://www.cie.ie/
-0061;KORAIL;Korea Railroad Corporation;KR;http://www.korail.com/
-0063;BLS;BLS AG;CH;http://www.bls.ch/
-0064;FN;Ferrovienord S.p.A.;IT;www.ferrovienord.it
-0065;CFARYM-I;Makedonski Železnici Infrastructure-Skopje;MK;http://www.mzi.mk/
-0066;TDZ;Tajikistan Railways;TJ;
-0067;TRK;Turkmenistan Railways;TM;http://www.railway.gov.tm/
-0068;AAEC;AAE Ahaus Alstätter Eisenbahn Cargo AG;;
-0069;EUROT;EUROTUNNEL;FR;http://www.eurotunnel.com/
-0070;Network Rail;Network Rail Limited;GB;http://www.networkrail.co.uk/
-0071;ADIF;Administrator de Infraestructuras Ferroviarias;ES;http://www.adif.es/
-0072;IŽS;Infrastruktura Železnice Srbije;RS;http://www.zeleznicesrbije.com/
-0073;OSE;Organismos Sidirodromon Ellados;GR;http://www.ose.gr/
-0074;TRAFIKVERKET;Trafikverket;SE;http://www.trafikverket.se/
-0075;TCDD Taşımacılık A.Ş.;Türkiye Cumhuriyeti Devlet Demiryolları Taşımacılık Anonim Şirketi;TR;http://www.tcddtasimacilik.gov.tr/
-0076;BN;Bane NOR SF;NO;https://www.banenor.no
-0077;FS EPA;Ferrovie dello Stato Italiane SpA EPA;IT;http://www.fsitaliane.it/
-0078;HŽ-Infrastruktura;HŽ Infrastruktura d.o.o.;HR;http://www.hzinfra.hr/
-0079;SŽ - Infrastuktura, d.o.o.;Slovenske železnice - Infrastuktura, d.o.o.;SI;http://www.slo-zeleznice.si/sl/infrastruktura/
-0080;DB Netz AG;DB Netz AG;DE;http://fahrweg.dbnetze.com/
-0081;ÖBB-Holding AG;ÖBB-Holding AG;AT;http://www.oebb.at/
-0082;CFL Infrastructure;Societé Nationale des Chemins de Fer Luxembourgeois;LU;http://www.cfl.lu/
-0083;FS;Ferrovie dello Stato Italiane SpA;IT;http://www.fsitaliane.it/
-0084;ProRail;ProRail;NL;http://blog.prorail.nl/
-0085;SBB Infrastructure ;Swiss Federal Railways - Infrastructure;CH;http://www.sbb.ch/sbb-konzern.html
-0086;Banedanmark;Banedanmark (RailNet Denmark);DK;http://www.bane.dk/
-0087;SNCF Réseau;SNCF Réseau SA;FR;www.sncf-reseau.com
-0088;Infrabel;Infrabel;BE;http://www.infrabel.be/
-0090;ENR;Egyptian National Railways;EG;https://enr.gov.eg/
-0091;SNCFT;Société Nationale des Chemins de Fer Tunisiens;TN;http://www.sncft.com.tn/
-0092;SNTF;Société Nationale des Transports Ferroviaires;DZ;http://www.sntf.dz/
-0093;ONCF;Office National des Chemins de Fer du Maroc;MA;http://oncf.ma/
-0094;IP;Infraestruturas de Portugal S.A.;PT;http://www.infraestruturasdeportugal.pt/
-0095;ISR;Israel Railways;IL;http://www.rail.co.il/
-0096;RAI;Rahahan-e Djjomhouri-e Eslami Iran;IR;http://irirw.com/
-0097;CFS;Administration Générale des Chemins de fer Syriens;SY;http://www.cfssyria.org/
-0098;CEL;Lebanon Railways;LB;
-0099;IRR;Iraqi Republic Railways Establishment;IQ;http://www.iraqrailways.com/
+code;short name;full name;country;url
+6;StL Holland;Stena Line Holland BV;NL;http://www.stenaline.nl/ferry/
+10;VR;VR-Yhtymä Oy;FI;http://www.vr.fi/
+12;TRFSA;Transfesa Logistics SA;ES;http://www.transfesa.com/
+13;OSJD;OSJD;PL;http://osjd.org/
+14;CWL;Compagnie des Wagons-Lits;FR;http://www.cwl-services.com/
+15;RMF;Rail Manche Finance;GB;http://www.rmf.co.uk/
+16;RD;RAILDATA;CH;http://www.raildata.coop/
+17;ENS;European Night Services Ltd;GB;
+18;THI Factory;THI Factory SA;BE;http://www.thalys.com/
+19;Eurostar I;Eurostar International Limited;GB;http://www.eurostar.com/
+20;OAO RZD;Joint Stock Company 'Russian Railways';RU;http://rzd.ru/
+21;BC;Belarusian Railways;BY;http://www.rw.by/
+22;UZ;Ukrainski Zaliznytsi;UA;http://uz.gov.ua/
+23;CFM;Calea Ferată din Moldova;MD;http://railway.md/
+24;LTG;AB 'Lietuvos geležinkeliai';LT;http://www.litrail.lt/
+25;LDZ;Latvijas dzelzceļš;LV;http://www.ldz.lv/
+26;EVR;Aktsiaselts Eesti Raudtee;EE;http://www.evr.ee/
+27;KTZ;Kazakhstan Temir Zholy;KZ;http://www.railway.ge/
+28;GR;Sakartvelos Rkinigza;GE;http://railway.ge/
+29;UTI;Uzbekistan Temir Yullari;UZ;http://www.uzrailway.uz/
+30;ZC;Railways of D.P.R.K.;KP;
+31;UBTZ;Mongolian-Russian Joint-Stock Company “Ulaanbaatar railway”;MN;http://www.ubtz.mn
+32;DSVN;đường sắt Việt Nam;VN;http://www.vr.com.vn/
+33;CR;Chinese Railways;CN;http://www.chineserailways.com/
+41;HSH;Hekurudha Shqiptarë SH.A.;AL;http://www.hsh.com.al/
+42;JR-E;East Japan Railway Company;;
+43;GySEV/Raaberbahn;Győr-Sopron-Ebenfurti Vasút Zrt.;HU;http://www2.gysev.hu/
+44;ŽRS;Željeznice Republike Srpske;BA;http://www.zrs-rs.com/
+50;ŽFBH;J.P. Željeznice Federacije BiH d.o.o.;BA;http://www.zfbh.ba/
+51;PKP PLK S.A.;PKP Polskie Linie Kolejowe S.A.;PL;http://www.plk-sa.pl/
+52;NRIC;National Railway Infrastructure Company;BG;http://rail-infra.bg/
+53;CFR SA;Compania Naţională de Căi Ferate Române;RO;http://www.cfr.ro/
+54;SZCZ;Správa železnic, statni organizace;CZ;https://www.spravazeleznic.cz/
+55;MÁV;Magyar Államvasutak Zrt.;HU;http://www.mav.hu/
+56;ŽSR;Železnice Slovenskej Republiky;SK;http://www.zsr.sk/
+57;ADY;Azerbaidjan Railways CJSC;AZ;http://www.railway.gov.az/
+58;CJSC SCR;South Caucasus Railway CJSC;AM;http://www.ukzhd.am/
+59;KTJ;Kyrgyz Railways;KG;http://www.ktj.kg/
+60;CIE;Córas Iompair Éireann;IE;http://www.cie.ie/
+61;KORAIL;Korea Railroad Corporation;KR;http://www.korail.com/
+63;BLS;BLS AG;CH;http://www.bls.ch/
+64;FN;Ferrovienord S.p.A.;IT;www.ferrovienord.it
+65;CFARYM-I;Makedonski Železnici Infrastructure-Skopje;MK;http://www.mzi.mk/
+66;TDZ;Tajikistan Railways;TJ;
+67;TRK;Turkmenistan Railways;TM;http://www.railway.gov.tm/
+68;AAEC;AAE Ahaus Alstätter Eisenbahn Cargo AG;;
+69;EUROT;EUROTUNNEL;FR;http://www.eurotunnel.com/
+70;Network Rail;Network Rail Limited;GB;http://www.networkrail.co.uk/
+71;ADIF;Administrator de Infraestructuras Ferroviarias;ES;http://www.adif.es/
+72;IŽS;Infrastruktura Železnice Srbije;RS;http://www.zeleznicesrbije.com/
+73;OSE;Organismos Sidirodromon Ellados;GR;http://www.ose.gr/
+74;TRAFIKVERKET;Trafikverket;SE;http://www.trafikverket.se/
+75;TCDD Taşımacılık A.Ş.;Türkiye Cumhuriyeti Devlet Demiryolları Taşımacılık Anonim Şirketi;TR;http://www.tcddtasimacilik.gov.tr/
+76;BN;Bane NOR SF;NO;https://www.banenor.no
+77;FS EPA;Ferrovie dello Stato Italiane SpA EPA;IT;http://www.fsitaliane.it/
+78;HŽ-Infrastruktura;HŽ Infrastruktura d.o.o.;HR;http://www.hzinfra.hr/
+79;SŽ - Infrastuktura, d.o.o.;Slovenske železnice - Infrastuktura, d.o.o.;SI;http://www.slo-zeleznice.si/sl/infrastruktura/
+80;DB Netz AG;DB Netz AG;DE;http://fahrweg.dbnetze.com/
+81;ÖBB-Holding AG;ÖBB-Holding AG;AT;http://www.oebb.at/
+82;CFL Infrastructure;Societé Nationale des Chemins de Fer Luxembourgeois;LU;http://www.cfl.lu/
+83;FS;Ferrovie dello Stato Italiane SpA;IT;http://www.fsitaliane.it/
+84;ProRail;ProRail;NL;http://blog.prorail.nl/
+85;SBB Infrastructure;Swiss Federal Railways - Infrastructure;CH;http://www.sbb.ch/sbb-konzern.html
+86;Banedanmark;Banedanmark (RailNet Denmark);DK;http://www.bane.dk/
+87;SNCF Réseau;SNCF Réseau SA;FR;www.sncf-reseau.com
+88;Infrabel;Infrabel;BE;http://www.infrabel.be/
+90;ENR;Egyptian National Railways;EG;https://enr.gov.eg/
+91;SNCFT;Société Nationale des Chemins de Fer Tunisiens;TN;http://www.sncft.com.tn/
+92;SNTF;Société Nationale des Transports Ferroviaires;DZ;http://www.sntf.dz/
+93;ONCF;Office National des Chemins de Fer du Maroc;MA;http://oncf.ma/
+94;IP;Infraestruturas de Portugal S.A.;PT;http://www.infraestruturasdeportugal.pt/
+95;ISR;Israel Railways;IL;http://www.rail.co.il/
+96;RAI;Rahahan-e Djjomhouri-e Eslami Iran;IR;http://irirw.com/
+97;CFS;Administration Générale des Chemins de fer Syriens;SY;http://www.cfssyria.org/
+98;CEL;Lebanon Railways;LB;
+99;IRR;Iraqi Republic Railways Establishment;IQ;http://www.iraqrailways.com/
 1001;EgroNet;Verkehrsverbund Vogtland GmbH;DE;
-1012;TRFSR;Transfesa Rail ;ES;http://www.transfesa.com/
+1012;TRFSR;Transfesa Logistics S A;ES;http://www.transfesa.com/
 1020;RZD holding;Russian Railways State Joint Company-Holding;RU;http://rzd.ru/
 1033;CR holding;Chinese Railways-Holding;CN;http://www.chineserailways.com/
 1051;PKP;Polskie Koleje Państwowe Spółka Akcyjna;PL;http://www.pkp.pl/
@@ -84,7 +84,7 @@
 1062;ŽPCG;Željeznički prevoz Crne Gore AD;ME;http://www.zcg-prevoz.me/
 1065;CFARYM-T;Makedonski Železnici Transport AD Skopje;MK;http://mztransportad.com.mk/
 1071;Renfe;Renfe Operadora;ES;http://www.renfe.com/
-1073;TRAINOSE;TRAINOSE S.A.;GR;http://www.trainose.gr/
+1073;HELLENIC TRAIN SA;HELLENIC TRAIN - Railway SA;GR;https://www.hellenictrain.gr/
 1074;ASJUA;Affärsverket Statens Järnväger;;
 1076;Vy;Vygruppen AS;NO;https://www.vy.no/
 1079;SŽ, d.o.o.;Slovenske železnice, d.o.o.;SI;http://www.slo-zeleznice.si/en/sz-group/
@@ -97,7 +97,7 @@
 1120;JSC 'FPC';Joint Stock Company 'FEDERAL PASSENGER COMPANY';RU;http://pass.rzd.ru/
 1124;LTG Link;UAB LTG Link;LT;litrail.lt
 1143;GYSEV Passenger;Győr-Sopron-Ebenfurti Vasút Zrt. Személyszállítás;HU;https://www2.gysev.hu/
-1151;PR ;Przewozy Regionalne Spółka z o.o.;PL;http://www.przewozyregionalne.pl/
+1151;PR;Przewozy Regionalne Spółka z o.o.;PL;http://www.przewozyregionalne.pl/
 1152;BDZ PASSENGER;BULGARIAN STATE RAILWAYS PASSENGER;BG;http://bdz.bg/
 1153;CFR Călători;Societatea Naţională de Transport Feroviar de Călători;RO;http://www.cfrcalatori.ro/
 1154;ČD;České dráhy, a.s.;CZ;http://www.cd.cz/
@@ -121,7 +121,7 @@
 1224;LTG Infra;AB LTG Infra;LT;www.ltginfra.lt.
 1242;LTC Sp z.o. o;Logistics & transport Company Sp. Z.o. o;PL;
 1251;PKP Intercity;PKP Intercity S.A.;PL;http://intercity.pl/
-1255;PKP CI SI ;PKP CARGO INTERNATIONAL SI d.o.o.;SI;www.pkpcargointernational.com
+1255;PKP CI SI;PKP CARGO INTERNATIONAL SI d.o.o.;SI;www.pkpcargointernational.com
 1279;SŽ - Potniški promet;Slovenske železnice / Potniški promet d.o.o.;SI;https://www.slo-zeleznice.si/en/
 1280;DB B I;DB Bahn Italia Srl;IT;http://www.megliointreno.it/
 1281;ÖBB;ÖBB- Personenverkehr AG;AT;www.oebb.at
@@ -131,18 +131,20 @@
 1351;SKMT;PKP SKM w Trójmieście Spółka z o.o.;PL;http://www.skm.pkp.pl/
 1355;MAV START Zrt;MAV START Railway Passenger Transport Co.;HU;
 1385;SBB2;Schweizerische Bundesbahnen Personenverkehr;CH;https://www.sbb.ch/
+1435;railML;railML.org e.V.;DE;
 1484;NS Reizigers;NS Reizigers BV;NL;http://www.ns.nl/
 1923;Korfez Ulastirma;Korfez Ulastirma A.S.;TR;https://www.korfezulastirma.com.tr/
 1971;SKPL;SKPL Cargo Sp. z o.o.;PL;
 1980;OVF;Omnibusverkehr Franken GmbH;;
+2080;DB Regio Bus;DB Regio AG Business Unit Bus;DE;
 2124;LTG Cargo;AB LTG Cargo;LT;litrail.lt
 2125;LDZ Cargo;LDZ Cargo Ltd;LV;http://www.ldz.lv/
-2126;Operail ;AS Operail ;EE;http://www.evrcargo/
+2126;Operail;AS Operail;EE;http://www.evrcargo/
 2131;BTEG;"""Boldtumur Eruu Gol"" LLC";MN;
-2132;NOEVOG;Niederosterreichische Verkehrsorganisationsges m.b.H.;AT;  www.noevog.at
+2132;NOEVOG;Niederosterreichische Verkehrsorganisationsges m.b.H.;AT;www.noevog.at
 2133;CAT;City Air Terminal Betriebsgesellschaft m.b.H;AT;www.cityairporttrain.com
-2134;Eurasian Railway Carrier ;Eurasian Railway Carrier SP zoo;PL;
-2135;CHT HB;Chladek a Tintera Havlickuv Brod, a.s. ;CZ;www.chladek-tintera.cz                    
+2134;Eurasian Railway Carrier;Eurasian Railway Carrier SP zoo;PL;
+2135;CHT HB;Chladek a Tintera Havlickuv Brod, a.s.;CZ;www.chladek-tintera.cz
 2136;AXS;Axess Logistics AB;SE;
 2137;TDKPL;TDK Plus Sp. z o.o.;PL;
 2143;GYSEV CARGO;GYSEV CARGO Zrt.;HU;http://www.gysevcargo.hu/
@@ -168,40 +170,41 @@
 2184;DBCNL;DB Cargo Nederland N.V.;NL;http://nl.dbcargo.com/
 2185;SBB Cargo;SBB CFF FFS Cargo;CH;http://www.sbbcargo.com/
 2186;DBCSC;DB Cargo Scandinavia A/S;DK;http://dk.dbcargo.com/
-2187;Fret SNCF;SNCF MOBILITES - Fret;FR;http://fret.sncf.com/
+2187;Fret SNCF;SAS Fret SNCF;FR;http://fret.sncf.com/
 2188;LNS;Lineas;BE;http://www.lineas.be
 2189;ACF;Administration des chemins de fer luxembourgeois;LU;www.railinfra.lu
-2190;Pelkolan Terminaali ;Pelkolan Terminaali Oy;FI;
-2191;NOVACARB;NOVACARB SAS;FR;www.seqens.com   
+2190;Pelkolan Terminaali;Pelkolan Terminaali Oy;FI;
+2191;NOVACARB;NOVACARB SAS;FR;www.seqens.com
 2192;CLR;Cargo Logistik Rail Service GmbH;DE;http://www.clr-service.de/
-2193;Mondi Powerflute;Mondi Powerflute Oy;FI;www.mondigroup.com 
+2193;Mondi Powerflute;Mondi Powerflute Oy;FI;www.mondigroup.com
 2194;Medway;MEDWAY - Operador Ferroviário e Logistico de Mercadorias, SA;PT;
-2195;ADRIA RAIL ;ADRIA RAIL doo ;HR;
+2195;ADRIA RAIL;ADRIA RAIL doo;HR;
 2196;Finngas;Finngas FGG GmbH Sivuliike Suomessa;FI;www.finngas.fi
-2197;CZD;ČESKÁ ZÁPADNÍ DRÁHA s.r.o. ;CZ;
-2198;TABOR DĘBICA;TABOR DĘBICA Sp. z o.o.;PL;www.tabor-debica.pl
-2199;Hämeenlinnan kaupunki;Hämeenlinnan  kaupunki;FI;www.hameenlinna.fi
+2197;CZD;ČESKÁ ZÁPADNÍ DRÁHA s.r.o.;CZ;
+2198;TABOR Rail;TABOR Rail Sp. z o.o.;PL;www.tabor-debica.pl
+2199;Hämeenlinnan kaupunki;Hämeenlinnan kaupunki;FI;www.hameenlinna.fi
 2243;Raaberbahn Cargo;Raaberbahn Cargo GmbH;AT;https://www.raaberbahn.at/organisation/raaberbahn-cargo-gmbh.html
-2248;ZUE ;ZUE SA;PL;www.grupazue.pl
+2248;ZUE;ZUE SA;PL;www.grupazue.pl
 2249;Naantalin Satama;Naantalin Satama oy;FI;https://www.portofnaantali.fi/en
-2250;Tenutado ;Tenutado SK s.r.o.;SK;
+2250;Tenutado;Tenutado SK s.r.o.;SK;
 2251;PKP LHS;PKP Linia Hutnicza Szerokotorowa Spółka z o.o.;PL;http://www.lhs.com.pl/
 2252;HaminaKotka Satama Oy;HaminaKotka Satama Oy / Port of HaminaKotka Ltd;FI;http://www.haminakotka.com
-2253;Oiltanking Finland Oy;Oiltanking Finland  Oy;FI;www.oiltanking.com
+2253;Oiltanking Finland Oy;Oiltanking Finland Oy;FI;www.oiltanking.com
 2254;Ovako Imatra;Ovako Imatra Oy Ab;FI;www.ovako.com
 2280;DBCITA;DB Cargo Italy Srl;IT;
 2282;CFL cargo Deutschland;CFL cargo Deutschland GmbH;DE;http://www.cflcargo.de/
 2285;Cargo SI (SBB);Cargo SI;;
 2287;CTI;Captrain Italia Srl;IT;http://www.captrain.it/
-2343;GYSEV Traction ;Győr-Sopron-Ebenfurti Vasút Zrt. Gépészet;HU;https://www2.gysev.hu/
+2343;GYSEV Traction;Győr-Sopron-Ebenfurti Vasút Zrt. Gépészet;HU;https://www2.gysev.hu/
 2380;DBCIT;DB Cargo Italia Srl;IT;http://it.dbcargo.com/rail-italia-it/
-2382;CFL cargo Danmark;CFL cargo Danmark ApS;DK;http://www.cflcargo.dk/
+2382;VIKING Rail;VIKING Rail ApS;DK;http://www.vikingrail.dk/
 2385;SBBCD;SBB Cargo Deutschland GmbH;DE;
 2387;CTB;Captrain Belgium NV;BE;http://www.captrain.be/
 2480;DB Fernverkehr;DB Fernverkehr AG;DE;http://www.deutschebahn.com/
 2485;SBBCI;SBB Cargo Italia;IT;http://www.sbbcargo-international.com/it/sbb-cargo-italia-srl-mailand-i-218.html
 2580;DB Regio;DB Regio AG;DE;
 2585;SBBC Int;SBB Cargo International;CH;http://www.sbbcargo-international.com/
+2800;TEKOL;TEKOL Sp z o.o.;PL;https://tekol.pl/
 2813;ECCO PL;ECCO Rail Sp Z.o.o.;PL;http://www.ecco-rail.eu/en/transport.php
 2910;VR-Track;VR-Track Ltd;FI;http://www.vr-rata.fi/
 3000;BCC;Bureau Central de Clearing;BE;http://bcclearing.eu/
@@ -224,7 +227,7 @@
 3018;THI;Thalys International;BE;http://www.thalys.com/
 3019;GFR;Grup Feroviar Român SA;RO;http://gfr.ro/
 3020;HGK;Häfen und Güterverkehr Köln AG;DE;http://www.hgk.de/
-3021;Floyd;Floyd Zrt.;HU;http://www.floyd.hu/
+3021;EUROGATE Rail Hungary Zrt;EUROGATE Rail Hungary Szolgáltató Zártkörűen Működő Részvénytársaság;HU;www.eurogate-rail.hu
 3022;SNCC;Société Nationale des Chemins de Fer du Congo;CD;http://sncc.cd/
 3023;STLB;Steiermärkische Landesbahnen;AT;http://stlb.at/
 3024;MMV;Magyar Magánvasút Zrt.;HU;http://www.mmv.hu/
@@ -250,7 +253,7 @@
 3047;FLC-Eurail;Flight Centre Ltd;;
 3048;STA Travel;STA Travel International Ltd;GB;http://www.statravel.fr/
 3049;StL Scand;Stena Line Scandinavia AB;;
-3050;Vy Tag;Vy Tag AB ;SE;http://www.tagkompaniet.se/
+3050;Vy Tag;Vy Tag AB;SE;http://www.tagkompaniet.se/
 3051;Snälltåget;Snälltåget i Sverige;SE;https://www.snalltaget.se
 3052;LCR;Low Cost Rail SA;ES;http://www.lcrail.com
 3053;Softrans;Softrans Srl;RO;http://www.softrans.ro/
@@ -260,8 +263,8 @@
 3057;BMRC;Bulmarket Rail cargo Ltd;BG;http://bulmarket.bg/
 3058;IGE GmbH & Co.KG;Internationale Gesellschaft für Eisenbahnverkehr;DE;http://bahntouristik.de/
 3059;EH Güterverkehr;EH Güterverkehr GmbH;DE;http://www.eisenbahn-und-haefen-gmbh.de/
-3060;VTR Rail ;VTR Rail B.V.;NL;
-3061;Valkeakosken kaupunki;Valkeakosken  kaupunki;FI;www.valkeakoski.fi
+3060;VTR Rail;VTR Rail B.V.;NL;
+3061;Valkeakosken kaupunki;Valkeakosken kaupunki;FI;www.valkeakoski.fi
 3062;ATTICA Group International lines;Blue Star Ferries Maritimes S.A. & Co Joint Venture.;GR;http://www.attica-group.com/
 3063;RTS;RTS Rail Transport Service GmbH;AT;http://www.rts-rail.com/
 3064;ATTICA Group Domestic lines;Blue Star Ferries Maritimes S.A. & Co Joint Venture;GR;http://www.attica-group.com/
@@ -275,7 +278,7 @@
 3073;RHEB;Rheinhessische Eisenbahn GmbH;;
 3074;AS;Aktsiaselts Spacecom;EE;http://www.spacecom.ee/
 3075;JLT;Region Jönköpings län, Jönköpings länstrafik;SE;https://jlt.se/
-3076;Transdev;Transdev GmbH ;DE;http://www.veolia-verkehr.de/
+3076;Transdev;Transdev GmbH;DE;www.transdev.de
 3077;WGT;Westgate Transport OÜ;EE;
 3079;CISALPINO;Cisalpino AG;;
 3080;LOKORAIL;LOKORAIL, a.s.;SK;http://lokorail.sk/
@@ -308,7 +311,7 @@
 3112;BRKS;Bratislavská regionálna kolajová spolocnost;;
 3113;Rail Polska;Rail Polska Sp. z o.o.;PL;http://www.railpolska.pl/
 3114;CTL Logistics GmbH;CTL Logistics GmbH;DE;http://www.ctl.pl/en/218,ctl-logistics-gmbh.html
-3115;UNIDO;ORLEN Unipetrol Doprava s.r.o.;CZ;http://www.orlenunipetroldoprava.cz    
+3115;UNIDO;ORLEN Unipetrol Doprava s.r.o.;CZ;http://www.orlenunipetroldoprava.cz
 3116;RCO,;RCO Spólka Akcyjna;;
 3117;RC-CF TRANS;SC. RC-CF Trans SRL. BRASOV;RO;http://www.rccf.ro/
 3118;AG EMS;Aktien-Gesellschaft 'EMS';DE;http://www.ag-ems.de/
@@ -325,7 +328,7 @@
 3130;AS GoRail;AS GoRail;EE;http://www.gorail.ee/
 3131;PMTLU;Pol-Miedź Trans Spółka z o.o.;PL;http://pmtrans.pl/
 3132;CTV;SC Cargo Trans Vagon SA;RO;http://www.tts-group.ro/
-3133;PKPCI HU;PKP CARGO INTERNATIONAL HU Zrt. ;HU;www.pkpcargointernational.com
+3133;PKPCI HU;PKP CARGO INTERNATIONAL HU Zrt.;HU;www.pkpcargointernational.com
 3134;RR;Regio Rail;;
 3135;HanseCom;HanseCom GmbH;DE;http://www.hansecom.com/
 3136;PPMT Sp. z o.o. w Gdańsku;Pomorskie Przedsiębiorstwo Mechaniczno-Torowe Sp. z o.o. w Gdańsku;PL;http://www.ppmt.com.pl/
@@ -343,12 +346,12 @@
 3148;ODOS;Ostravská dopravní společnost, a.s.;CZ;http://www.odos.cz/
 3149;SPRINGMASTER;SPRINGMASTER;ZA;http://www.springmaster.co.za/
 3150;PCC Intermodal S.A.;PCC Intermodal Spółka Akcyjna;PL;http://www.pccintermodal.pl/
-3151;KM;'Koleje Mazowieckie-KM' Sp. z o.o.;PL;http://www.mazowieckie.com.pl/
+3151;KM;Koleje Mazowieckie-KM' Sp. z o.o.;PL;http://www.mazowieckie.com.pl/
 3152;AMEH Trans;ArcelorMittal Eisenhüttenstadt Transport GmbH;DE;http://www.arcelormittal-ehst.com/
 3153;WIENER LINIEN;WIENER LINIEN GmbH & Co KG;AT;http://www.wienerlinien.at/
 3154;UTZ;SC UNICOM TRANZIT SA;RO;http://www.unicom-group.ro/unifer/
 3155;RVF;Regio-Verkehrsverbund Freiburg GmbH;DE;http://www.rvf.de/
-3156;ZIK;Zakład Inżynierii Kolejowej Leśkiewicz, Kosmala Spółka Jawna;PL;http://www.ziksandomierz.pl/
+3156;ZIK;Zakład Inżynierii Kolejowej Sp. z o. o.;PL;http://www.ziksandomierz.pl/
 3157;LM;Lokomotion Gesellschaft für Schienentraktion mbH;DE;http://www.lokomotion-rail.de/
 3158;RTC;Rail Traction Company SpA;IT;http://www.railtraction.it/
 3159;LFP PERTHUS;Linea FiguerasPerpignan SA;ES;http://www.lfpperthus.com/
@@ -374,12 +377,12 @@
 3179;RF;S.C. RAIL FORCE S.R.L.;RO;http://www.rccf.ro/
 3180;CLIP Intermodal;CLIP Intermodal Sp. Z.o.o.;PL;http://clip-group.com/en/strona-glowna-en/
 3181;TFG;SC TRANSFEROVIAR GRUP SA;RO;http://www.transferoviar.ro/
-3182;N+N Litoměřice;N+N - Konstrukce adopravní stavby Litoměřice, s.r.o.;CZ;http://www.nanlitomerice.cz/
+3182;N+N Litoměřice;N+N - Konstrukce a dopravní stavby Litoměřice, s.r.o.;CZ;http://www.nanlitomerice.cz/
 3183;PmHvy;Pieksämäen Höyryveturiyhdistys ry;FI;http://www.pmk-hoyryveturiyhdistys.fi/
 3184;KMOY;Keitele-Museo Oy;FI;http://www.aanekoski.fi/vapaa-aika/kulttuuri/museot/keitele-museo/
 3185;ROFERSPED;S.C. ROFERSPED S.A.;RO;http://www.rofersped.ro/
 3186;Keyrail;Keyrail B.V.;;
-3187;DBF;DB Cargo France SAS ;FR;https://fr.dbcargo.com/rail-fr-fr
+3187;DBCFR;DB Cargo France SAS;FR;https://fr.dbcargo.com/rail-fr-fr
 3189;ARV;ARRIVA vlaky, s.r.o.;CZ;http://www.arriva.co.uk/arriva/cz/
 3190;ŽICG AD-Podgorica;Željeznička infrastruktura Crne Gore AD-Podgorica;ME;http://www.zicg.me/
 3191;HMVY;Haapamäen museoveturiyhdistys ry;FI;http://www.hmvy.fi/
@@ -421,7 +424,7 @@
 3227;EPC;Europorte Channel;FR;http://www.europorte.com/
 3228;MVA;Magyar Vasúti Áruszállító Kft.;HU;http://www.mvakft.hu/
 3229;RNV GmbH;Rhein-Neckar-Verkehr GmbH;DE;http://www.rnv-online.de/
-3230;Die Länderbahn ;Die Länderbahn GmbH DLB;DE;http://www.vogtlandbahn.de/
+3230;Die Länderbahn;Die Länderbahn GmbH DLB;DE;http://www.vogtlandbahn.de/
 3231;DBCHU;DB Cargo Hungária Kft.;HU;http://www.railion.hu/
 3232;VTG GmbH;VTG Deutschland GmbH;;
 3233;CPTF;CAPTRAIN France;FR;http://www.vfli.fr/
@@ -437,21 +440,21 @@
 3243;üstra AG;üstra Hannoversche Verkehrsbetriebe AG;DE;http://www.uestra.de/
 3244;LE;LEO Express Global a.s.;CZ;WWW.leoexpress.com
 3245;CDCPL;CD Cargo Poland Sp. z .o.o.;PL;http://cdcargo.pl/
-3246;RJ;Regiojet a.s.;CZ;http://www.regiojet.cz/cs/
+3246;RJ;Regiojet a.s. (CZ);CZ;http://www.regiojet.cz/cs/
 3247;DBCBG;DB Cargo Bulgaria EOOD;BG;http://www.dbschenker.bg/
 3248;HSL PL;HSL Sp. Z.o.o.;PL;http://www.hsl.net.pl/
-3249;NBE;NBE nordbahn Eisenbahngesellschaft mbH;DE;http://www.nordbahn.info/
+3249;NBE;NBE nordbahn Eisenbahngesellschaft mbH & Co. KG;DE;www.nordbahn.de
 3250;CER Slovakia;CER Slovakia a.s.;SK;http://www.cercargo.eu/
 3251;Scandlines AB;Scandlines AB;SE;http://www.scandlines.se/
 3252;KD;Koleje Dolnośląskie S.A.;PL;http://www.kolejedolnoslaskie.eu/
 3253;KW;Koleje Wielkopolskie Sp. z o.o.;PL;http://koleje-wielkopolskie.com.pl/
 3254;HKX;Hamburg-Köln-Express GmbH;DE;http://www.hkx.de/
-3255;PSP;Petrolsped Slovakia, s.r.o.;SK;http://www.petrolsped.sk/
-3256;ELIPSOS;ELIPSOS INTERNACIONAL ;ES;http://www.elipsos.com/
+3255;RLL;RailLog s.r.o.;SK;https://www.raillog.sk/
+3256;ELIPSOS;ELIPSOS INTERNACIONAL;ES;http://www.elipsos.com/
 3257;BRYNTIN;BRYNTIN RAIL CZ s.r.o.;;
-3258;metronom;metronom Eisenbahngesellschaft mbH ;DE;http://www.der-metronom.de/
+3258;metronom;metronom Eisenbahngesellschaft mbH;DE;http://www.der-metronom.de/
 3259;RSE;RSE Rhein-Sieg-Eisenbahn GmbH;DE;http://www.rse-bonn.de/
-3260;AB Prevoz;AB Prevoz d.o.o.;RS;
+3260;S Rail DOO;S Rail DOO Subotica;RS;
 3261;S&K TT;S&K Train Transport Sp. z o.o.;;
 3262;Rdx;Raildox GmbH & Co. KG;DE;http://www.raildox.de/
 3263;TSS GRADE;TSS GRADE a.s.;SK;http://www.tss.sk/
@@ -472,7 +475,7 @@
 3278;CIECH;CIECH Cargo Sp z oo;PL;http://www.ciechgroup.com/
 3279;RMV;Rhein-Main-Verkehrsverbund GmbH;DE;http://www.rmv.de/
 3280;SAD;SAD Trasporto Locale SpA;IT;http://www.sad.it/
-3281;RTI;Railtrans International, s.r.o.;SK;
+3281;RTI;Railtrans International, a.s.;SK;
 3282;IVB;Innsbrucker Verkehrsbetriebe und Stubaitalbahn GmbH;AT;http://www.ivb.at/
 3283;EPC;EP Cargo a.s.;CZ;http://www.epcargo.cz/
 3284;VBK GmbH;Verkehrsbetriebe Karlsruhe GmbH;DE;http://www.vbk.info/
@@ -605,7 +608,7 @@
 3411;RCO CSKD;Rail Cargo Operator - CSKD s.r.o.;CZ;http://www.railcargocarrier.com/
 3412;GPMB;Grand Port Maritime de Bordeaux;FR;http://www.bordeaux-port.fr/
 3413;GPMM;Grand Port Maritime de Marseille;FR;http://www.marseille-port.fr/
-3414;PSP RO;PSP  Cargo Group SA;RO;www.pspcargo.ro
+3414;PSP RO;PSP Cargo Group SA;RO;www.pspcargo.ro
 3415;VAG;VAG Verkehrs-Aktiengesellschaft Nürnberg;DE;https://www.vag.de/
 3416;Raillogix;Raillogix B.V.;NL;http://www.raillogix.com/
 3417;FSP;CER-FERSPED SA;RO;http://cercargo.ro/
@@ -626,7 +629,7 @@
 3432;TX AT;TX Logistik Transalpine GmbH;AT;http://www.txlogistik.eu/
 3433;CARGOTOR;CARGOTOR Sp. z o.o;PL;http://cargotor.com/
 3434;KRE;KombiRail Europe B.V.;NL;http://www.kombirail.eu/
-3435;ETF ;ETF Services;FR;http://www.etf.fr/
+3435;ETF;ETF Services;FR;http://www.etf.fr/
 3436;LISEA;Ligne à Grande Vitesse Sud Europe Atlantique;FR;http://www.lisea.fr/
 3437;Spedkol;DB Cargo Spedkol Sp. o z.z.;PL;https://pl.dbcargo.com/rail-polska-pl/
 3438;Sundström;Sundström Ab Oy;FI;http://sundstroms.fi/
@@ -672,13 +675,13 @@
 3478;Turun Satama;Turun Satama Oy;FI;http://www.portofturku.fi/portal/fi/
 3479;Neste;Neste Oyj;FI;
 3480;RaahePort;Raahen Satama Oy;FI;http://www.raahensatama.fi/fi/
-3481;PAS;Port Autonome de Strasbourg ;FR;http://www.strasbourg.port.fr/
-3482;FuoriMuro S.R.L.;FuoriMuro Servizi Portuali e Ferroviari S.R.L.;IT;http://www.fuorimuro.it/index.php/it/
-3483;LTE PL;LTE Polska Spółka z o.o. ;PL;
-3484;Port of Kokkola ;Kokkolan Satama Oy;FI;http://www.portofkokkola.fi/port/
+3481;PAS;Port Autonome de Strasbourg;FR;http://www.strasbourg.port.fr/
+3482;FuoriMuro SrL;FuoriMuro Impresa Ferroviara S.r.L.;IT;http://www.fuorimuro.it/index.php/it/
+3483;LTE PL;LTE Polska Spółka z o.o.;PL;
+3484;Port of Kokkola;Kokkolan Satama Oy;FI;http://www.portofkokkola.fi/port/
 3485;GDG;Gunvor Deutschland GmbH;DE;http://gunvor-deutschland.de/hp1/Startseite.htm
 3486;NR Rail;NR Rail Oy;FI;http://www.nurminenlogistics.com/FrontPage/
-3487;Salzburg AG ;Salzburg AG für Energie, Verkehr und Telekommunikation;AT;https://www.salzburg-ag.at/
+3487;Salzburg AG;Salzburg AG für Energie, Verkehr und Telekommunikation;AT;https://www.salzburg-ag.at/
 3488;Rauman Satama;Rauman Satama Oy - Port of Rauma;FI;http://www.portofrauma.com/
 3489;VTGSK;Retrack Slovakia s.r.o.;SK;
 3490;ES;Euroterminal Sławków;PL;http://www.euterminal.pl/pl
@@ -696,13 +699,13 @@
 3502;SSB;Spitzke Spoorbouw BV;NL;http://www.spitzke.com/site/nl/
 3503;NAVILAND;NAVILAND Cargo;FR;http://www.naviland-cargo.com/
 3504;Rail Force One;Rail Force One B.V.;NL;
-3505;GPM NSN;Grand Port Maritime de Nantes St Nazaire ;FR;http://www.nantes.port.fr/
+3505;GPM NSN;Grand Port Maritime de Nantes St Nazaire;FR;http://www.nantes.port.fr/
 3506;RAS;Rail Asset Services NV;BE;
-3507;Port Atlantique La Rochelle;Grand Port Maritime La Rochelle ;FR;http://www.larochelle.port.fr/
+3507;Port Atlantique La Rochelle;Grand Port Maritime La Rochelle;FR;http://www.larochelle.port.fr/
 3508;Port of Hanko Ltd;Hangon Satama - Hangö Hamn Oy Ab;FI;http://portofhanko.fi/
 3509;RET;Rotterdamse Electrische Tram NV, afgekort R.E.T. NV;NL;https://www.ret.nl/
 3510;BTE;BTE BahnTouristikExpress GmbH;DE;http://bahntouristikexpress.de/
-3511;Ports de Paris;Port Autonome de Paris ;FR;
+3511;Ports de Paris;Port Autonome de Paris;FR;
 3512;Captrain Espana;Captrain Espana S.A.U.;ES;http://captrain.es/
 3513;GTSR;GTS Rail S.p.A.;IT;http://www.gtsrail.com/it/
 3514;KTL GmbH;KTL Kombi-Terminal Ludwigshafen GmbH;DE;http://www.ktl-lu.de/
@@ -716,7 +719,7 @@
 3522;IGR;I.G.Rail, spol. s.r.o.;SK;
 3523;DS VASUT Kft;DS VASÚT Vasúti Szolgáltató és Fuvarozó Korlátolt Felelősségű Társaság;HU;
 3524;Arriva SK;Arriva Service s.r.o.;SK;http://www.arriva.sk
-3525;FER;Ferrovie Emilia Romagna ;IT;http://www.fer.it
+3525;FER;Ferrovie Emilia Romagna;IT;http://www.fer.it
 3526;ABRN;Abellio Rail NRW GmbH;DE;http://www.abellio.de
 3527;EDG;Eisenbahndienstleister GmbH;CH;http://www.eisenbahndienstleister.ch
 3528;EBT;Emons Bahntransporte GmbH;DE;http://www.emons.com/
@@ -739,7 +742,7 @@
 3545;BSAS;BSAS Eisenbahnverkehrs GmbH & Co. KG;DE;http://www.bsas-evg.de
 3546;VVW;Verkehrsverbund Warnow GmbH;DE;https://www.verkehrsverbund-warnow.de/
 3547;BBL;Stadtwerke Baden-Baden Verkehrsbetriebe;DE;http://www.stadtwerke-baden-baden.de
-3548;MTPL;METRANS (Polonia) sp. z o. o. ;PL;https://www.metranspolonia.pl/
+3548;MTPL;METRANS (Polonia) sp. z o. o.;PL;https://www.metranspolonia.pl/
 3549;ERB;KEOLIS Deutschland GmbH & Co. KG;DE;http://www.keolis.de
 3550;Tagab;Tågåkeriet i Bergslagen AB;SE;http://www.tagakeriet.se/
 3551;JSC Gargždų geležinkelis;Joint Stock Copmany Gargždų geležinkelis;LT;http://gargzdugelezinkelis.lt/
@@ -755,15 +758,15 @@
 3561;RO-BEU;SC CONSTANTIN GRUP SRL;RO;http://locomotive.ro/
 3562;NHTR;NH-TRANS, SE;CZ;http://www.nh-trans.cz/en/
 3563;KOST;KOS-Trading, a.s.;CZ;http://www.kostrading.cz/
-3564;HTM;HTM Personenvervoer N.V. ;NL;https://www.htm.nl/english/
+3564;HTM;HTM Personenvervoer N.V.;NL;https://www.htm.nl/english/
 3565;SWT;SWT Stadtwerke Trier Verkehrs-GmbH;DE;https://www.swt.de/
 3566;ELV;Eisenbahnlogistik Vienenburg;DE;http://www.eisenbahnlogistik-vienenburg.de/
 3567;CM Sp. z o.o.;CARGO Master Sp. z o.o.;PL;
 3568;BL24;Bahnlogistik24 GmbH;DE;http://www.bahnpersonal24.de/Bahnlogistik24/
-3569;MEDWAY;Medway - operador ferroviário et logistico de mercadorias sa sucursal en Espana;PT;
+3569;MEDWAY;Medway - operador ferroviário et logistico de mercadorias sa sucursal en Espana;PT;
 3570;REGIO CALATORI;REGIO CALATORI S.R.L.;RO;https://regiocalatori.ro/
-3571;"OAO ""PK ""ZhDS""""";OAO Zheldorservice ;MD;
-3572;Ferrovie del Sud Est ;Ferrovie del Sud Est e Servizi Automobilistici s.r.l.;IT;https://www.fseonline.it/
+3571;"OAO ""PK ""ZhDS""""";OAO Zheldorservice;MD;
+3572;Ferrovie del Sud Est;Ferrovie del Sud Est e Servizi Automobilistici s.r.l.;IT;https://www.fseonline.it/
 3573;RCL GmbH;Rail Cargo Logistics GmbH;AT;http://www.railcargologistics.com/
 3574;OFZ;OFZ, a.s.;SK;https://www.ofz.company/en/
 3575;moovel;moovel Group GmbH;DE;https://www.moovel-group.com/en
@@ -771,13 +774,13 @@
 3577;TLC;Transport line Cargo;CZ;
 3578;SL;AB Storstockholms Lokaltrafik;SE;
 3579;Sersa;Sersa Group AG (Schweiz);CH;http://sersa-group.com/
-3580;RCC-PL;Rail Cargo Carrier - Poland  sp. z o. o.;PL;railcargo.com
+3580;RCC-PL;Rail Cargo Carrier - Poland sp. z o. o.;PL;railcargo.com
 3581;SITFA;SITFA SpA;IT;http://www.sitfa.net/
 3582;Grenland Rail;Grenland Rail AS;NO;http://www.grenlandrail.no
 3583;SDKD;SD - Kolejová doprava, a.s.;CZ;http://www.sd-kd.cz/
 3584;LGC CARGO;UAB LGC CARGO;LT;
 3585;BLSCI;BLS Cargo Italia;IT;http://www.bls-cargo.it
-3586;BETONPLUS;BETONPLUS Company;AL;www.betonplus-al.com 
+3586;BETONPLUS;BETONPLUS Company;AL;www.betonplus-al.com
 3587;JLZR;JELZŐŐR Kft;HU;
 3588;NCL NEO CARGO LOGISTIC d.o.o.;NCL NEO CARGO LOGISTIC d.o.o., Beograd, Zvezdara;RS;
 3589;TRAPI;Trans Rapid s.r.o.;CZ;
@@ -796,16 +799,16 @@
 3602;VVV;Verkehrsverbund Vorarlberg GmbH;AT;https://www.vmobil.at/index.php?menuid=190
 3603;PR;Pannon Rail d.o.o.;RS;
 3604;GoAbout;GoAbout B.V.;NL;https://goabout.com/
-3605;ETMF;ETMF Transport ;FR;
+3605;ETMF;ETMF Transport;FR;
 3606;Qbuzz;Qbuzz B.V.;NL;https://www.qbuzz.nl/
-3607;AVG;Albtal-Verkehrs-Gesellschaft mbH ;DE;https://www.avg.info/
-3608;WLB;WIENER LOKALBAHNEN GmbH ;AT;
+3607;AVG;Albtal-Verkehrs-Gesellschaft mbH;DE;https://www.avg.info/
+3608;WLB;WIENER LOKALBAHNEN GmbH;AT;
 3609;DB Cargo Belgium;DB Cargo Belgium BVBA;BE;
-3610;Rail Technika Kft.;Rail Technika Mérnöki Szolgáltató és Kereskedelmi Kft;HU ;http://www.railtechnika.hu/
+3610;Rail Technika Kft.;Rail Technika Mérnöki Szolgáltató és Kereskedelmi Kft;HU;http://www.railtechnika.hu/
 3611;Port of Antwerp;Havenbedrijf Antwerpen NV van publiek recht;BE;http://www.portofantwerp.com
 3612;K-Rail;K-Rail GmbH;de;https://www.netzwerk-bahnen.de
 3613;STB;Steiermarkbahn und Bus GmbH;AT;http://www.steiermarkbahn.at
-3614;ZÁHONY-PORT Co;ZÁHONY-PORT Záhonyi Logistics and Load Handling Servicing Company ;HU;https://zahony-port.hu/en_zp21.html
+3614;ZÁHONY-PORT Co;ZÁHONY-PORT Záhonyi Logistics and Load Handling Servicing Company;HU;https://zahony-port.hu/en_zp21.html
 3615;RF;Railflex GmbH;DE;http://www.railflex.de
 3616;LE s.r.o.;Leo Express s.r.o.;CZ;WWW.leoexpress.com
 3617;Adriafer;Adriafer s.r.l.;IT;http://www.adriafer.com/
@@ -824,63 +827,63 @@
 3631;Logserv;Logistik Service GmbH.;AT;http://www.logserv.at
 3632;SwRail;Swietelsky Rail CZ s.r.o.;CZ;http://www.swietelsky.cz
 3633;OR;Ouestrail SAS;FR;http://www.ouestrail.ch/
-3634;DTVG;Deutschlandtarifverbund GmbH;DE;
+3634;DTVG;Deutschlandtarifverbund GmbH;DE;https://deutschlandtarifverbund.de/
 3635;VTG CH (ex AAEC);VTG Schweiz GmbH (ex AAEC);CH;https://www.vtg.com
-3636;S-Rail ;S-Rail GmbH;DE;https://www.netzwerk-bahnen.de
+3636;S-Rail;S-Rail GmbH;DE;https://www.netzwerk-bahnen.de
 3637;Duisburg Hafen AG;Duisburg Hafen AG;DE;https://www.duisport.de
-3638;VIA;VIAMONT Servis as ;CZ;http://www.viamontservis.cz
+3638;VIA;VIAMONT Servis as;CZ;http://www.viamontservis.cz
 3639;SEZEV REKO as;SEZEV REKO as;CZ;https://www.sezev-reko.cz/
-3640;LC ;Lafarge Cement;CZ;https://www.lafarge.cz
-3641;LG;Lokalka Group, spolek ;CZ;http://lokalkagroup.eu/
-3642;RCAS;Railway Capital as ;CZ;http://www.railwaycapital.cz/
+3640;LC;Lafarge Cement;CZ;https://www.lafarge.cz
+3641;LG;Lokalka Group, spolek;CZ;http://lokalkagroup.eu/
+3642;RCAS;Railway Capital as;CZ;http://www.railwaycapital.cz/
 3643;OLDOP;OLOMOUCKA DOPRAVNI sro;CZ;https://www.olomouckadopravni.cz/
 3644;SZD;Slezske zemske drahy, o.p.s;CZ;http://www.osoblazsko.com/
 3645;ERC.D;European Railway Company Deutschland GmbH;DE;https://european-railway-company.com/
 3646;FIRESTA a.s.;FIRESTA - Fiser, rekonstrukce, stavby a.s.;CZ;http://www.firesta.cz
 3647;Dutch Software;The Dutch Software Company B.V.;NL;https://dutch-software.nl/
 3648;KK;KK-provoz a opravy lok. s.r.o;CZ;https://rejstrik-firem.kurzy.cz/25834282/kk-provoz-a-opravy-lok-sro/
-3649;WTT ;WTT s.r.o.;CZ;www.woodtt.eu
+3649;WTT;WTT s.r.o.;CZ;www.woodtt.eu
 3651;PDCS;PEDASTA dopravni stavby, s.r.o;CZ;http://pedasta.cz/
 3652;WSBA;WAGON SERVICE travel s.r.o.;SK;www.wagonservice.sk
 3653;RCCRo;SC Rail Cargo Carrier Romania SRL;RO;http://www.railcargocarrier.com/
 3654;CTN;CAPTRAIN Netherlands B.V.;NL;https://www.captrain.de/netherlands.html
-3655;ENNA;ENNA TRANSPORT d.o.o. za prijevoz tereta;HR;http:// www.transport.enna.hr
+3655;ENNA TRANSPORT;ENNA TRANSPORT d.o.o. za prijevoz tereta;HR;http:// www.transport.enna.hr
 3656;NIR;Northern Ireland Railways Company Limited;GB;http://www.translink.co.uk/
 3657;REKOP;REKOP s.r.o.;CZ;https://rejstrik-firem.kurzy.cz/27499499/rekop-sro/
 3658;RPKM s.r.o.;RPKM s.r.o.;CZ;http://rpkm.cz/
 3659;Orion Kolej;FHU Orion Kolej Krzysztof Warchol;PL;http://www.orionkolej.pl/
 3660;Fabriquartz;Fabriquartz bv;NL;http://www.fabriquartz.com
 3661;TRAMO RAIL, a.s.;TRAMO RAIL, a.s.;CZ;http://www.tramo-rail.cz/
-3662;Railizer ;Railizer  Gbr;DE;https://www.railizer.de/
+3662;Railizer;Railizer Gbr;DE;https://www.railizer.de/
 3663;MAV-HEV Co. Ltd.;MAV-HEV Suburban Rail Private Company Limited by Shares;HU;https://www.mav-hev.hu/
 3664;ECS;EUROVIA CS, a.s.;CZ;www.eurovia.cz
-3665;Yara Suomi Oy ;Yara Suomi Oy, Siilinjarven tehtaat;FI;www.yara.com
+3665;Yara Suomi Oy;Yara Suomi Oy, Siilinjarven tehtaat;FI;www.yara.com
 3666;KDS;Kladenská dopravní a strojní, s. r. o;CZ;www.kdskladno.cz
 3667;DRAKEM s.r.o.;DRAKEM s.r.o.;CZ;http://www.drakem.cz/
 3668;HSM OLC;Hrosi stavby Morava a.s.;CZ;www.hrosistavby.cz
 3669;TORAMOS;TORAMOS s.r.o.;CZ;http://www.toramos.cz/
 3670;CHT PCE;Chladek a Tintera, Pardubice a.s.;CZ;www.cht-pce.cz
-3671;ER;Eurorail Logistics d.o.o ...;HR ;http://www.eurorail.hr
+3671;ER;Eurorail Logistics d.o.o ...;HR;http://www.eurorail.hr
 3672;ERS;Eurorail Logistics d.o.o..;RS;http://www.eurorail.rs
 3673;H. Wendel;Hans Wendel spol. s r.o. & Co., k.s.;CZ;https://www.hanswendel.cz/
-3674;Albametal ;Albametal ;AL;www.albametal.net
-3675;STRABAG Rail ;STRABAG Rail Fahrleitungen GmbH;DE;http://www.strabag-rail.com/
+3674;Albametal;Albametal;AL;www.albametal.net
+3675;STRABAG Rail;STRABAG Rail Fahrleitungen GmbH;DE;http://www.strabag-rail.com/
 3676;CERHR;CER Cargo d.o.o.;HR;http://cercargo.eu/
 3677;STAV GmbH;STAV GmbH;DE;http://www.stav-gmbh.de/
 3678;RSTL;RST Logistics Sp. z o.o;PL;www.rstlogistics.pl
 3679;RIWNL;Sim Boerema BV;NL;
 3680;BSS 2000 Kft;BSS 2000 Energetikai Szolgáltató Ipari és Kereskedelmi Kft;HU;
-3681;KPT ;KPT rail s.r.o.;CZ;https://www.kptrail.cz/
+3681;KPT;KPT rail s.r.o.;CZ;https://www.kptrail.cz/
 3682;IDS;IDS Inženýrské a dopravní stavby Olomouc a.s.;CZ;http://www.ids-olomouc.cz
 3683;FEDASOLUCIONS;FEDASOLUCIONS AD;AD;www.fedasolucions.ad
-3684;ABRM;Abellio Rail Mitteldeutschland GmbH ;DE;https://www.abellio.de/
+3684;ABRM;Abellio Rail Mitteldeutschland GmbH;DE;https://www.abellio.de/
 3685;LGD;Linde AG;DE;http://www.linde-gas.com
 3686;G&G Kft.;G&G Novenyvedelmi es Kereskedelmi Kft.;HU;http://www.gesgkft.hu/gg_dev/hu/
 3687;RUTR;RUTR s.r.o.;CZ;http://www.rutr.cz/
-3688;VUZ a.s.;Vyzkumny Ustav Zeleznicni, a.s. ;CZ;http://www.cdvuz.cz/
+3688;VUZ a.s.;Vyzkumny Ustav Zeleznicni, a.s.;CZ;http://www.cdvuz.cz/
 3689;UKL;UKL iT & Logistik GmbH;DE;https://www.ukl.de/
 3690;NIS a.d.;NIS a.d. Novi Sad;RS;https://www.nis.eu/en/
-3691;TRANSIFER; TRANSIFER;FR;
+3691;TRANSIFER;TRANSIFER;FR;
 3692;INA;INA - Industrija Nafte d.d.;HR;
 3693;IRT;IRT Sp. Z.o.o.;PL;
 3694;Mertz;Mertz Rail AB;SE;https://www.mertz.se/se
@@ -892,34 +895,34 @@
 3700;HBR;Havenbedrijf Rottendam N.V.;NL;www.portofrotterdam.com
 3701;DBCL;DB Cargo Logistics GmbH..;DE;
 3702;SLRS;Salzland Rail Service GmbH;DE;
-3703;Region Grand Est ;Region  Grand Est ;FR;https://www.grandest.fr/
+3703;Region Grand Est;Region Grand Est;FR;https://www.grandest.fr/
 3704;RSS;Rail Services Slovakia s.r.o;SK;
 3705;NOR;NOR a.s.;CZ;
 3706;HRDE;Hector Rail Gmbh;DE;https://www.hectorrail.com/
 3707;DBCSI;DB Cargo AG.;DE;http://www.dbcargo.com/ecosolutions
-3708;Eurailscout;Eurailscout Inspection & Analysis B.V. ;NL;http://www.eurailscout.com/
+3708;Eurailscout;Eurailscout Inspection & Analysis B.V.;NL;http://www.eurailscout.com/
 3709;EZ Praha;Elektrizace železnic Praha a.s;CZ;www.elzel.cz
 3710;MAV FKG Kft.;MAV FKG Felepitmenykarbantarto es Gepjavito Korlatolt Felelossegu Tarsasag;HU;https://www.mavcsoport.hu/mav-fkg/bemutatkozas-mav-fkg-kft
 3711;Logitren;Logitren Ferroviaria, SA;ES;http://www.logitren.es
 3712;GX Solutions;GX Solutions a.s.;SK;http://www.gxsolutions.sk/
 3713;RPB;Railport Brabant BV;NL;http://www.gvtintermodal.com/terminals/railport-brabant
-3714;KARPIEL ;KARPIEL Sp. z. o.o. ;PL;http://karpiel.info.pl/
-3715;TRAINSPEED;TRAINSPEED Sp. z. o.o. ;PL;http://kolej.trainspeed.eu
+3714;KARPIEL;KARPIEL Sp. z. o.o.;PL;http://karpiel.info.pl/
+3715;TRAINSPEED;TRAINSPEED Sp. z. o.o.;PL;http://kolej.trainspeed.eu
 3716;LTE AT;LTE Austria GmbH;AT;www.LTE-group.eu
 3718;MDW;MEDWAY ITALIA SRL;IT;
 3719;RFG;Regiobahn Fahrbetriebsgesellschaft mbH;DE;www.regio-bahn.de
 3720;FWD GmbH;Forwardis GmbH;DE;http://www.forwardis.com/
 3721;FWD SAS;Forwardis SAS;FR;http://www.forwardis.com/
 3722;erixx;erixx GmbH;DE;www.erixx.de
-3723;FLEX ;Flex Bahndienstleistungen GmbH;DE;www.flex-bahndienstleistungen.de
-3724;ETFS ;ETF-Services;FR;www.etf.fr
+3723;FLEX;Flex Bahndienstleistungen GmbH;DE;www.flex-bahndienstleistungen.de
+3724;ETFS;ETF-Services;FR;www.etf.fr
 3725;LET;Leo Express Tenders s.r.o;CZ;
 3726;RND;RND s.r.o.;CZ;http://www.rndoc.cz/cs/
 3727;TOP;Transagent Operator d.o.o. Beograd;RS;http://transagent.rs/
 3728;S Rail;S Rail GmbH;AT;http://www.setg.at/
 3729;RDC Deutschland;RDC Deutschland GmbH;DE;https://www.rdc-deutschland.de/
 3730;AZS;RDC AUTOZUG Sylt GmbH;DE;www.autozug-sylt.de
-3731;RDC Asset ;RDC Asset GmbH;DE;https://www.rdc-deutschland.de/
+3731;RDC Asset;RDC Asset GmbH;DE;https://www.rdc-deutschland.de/
 3732;NTAB;Nordiska Tag AB;SE;
 3733;GAN;Go Ahead Norge AS;GB;www.go-ahead.com
 3734;Palettenwerk Middelbeck GmbH;Palettenwerk Middelbeck GmbH;DE;
@@ -947,28 +950,28 @@
 3756;BLSR;BLSR Rail AB;SE;
 3757;RELOC;RELOC S.A.;RO;
 3758;MEV CH;MEV Schweiz AG;CH;http://www.m-e-v.ch/
-3759;CFLterminals ;CFLterminals s.a.;LU;
+3759;CFLterminals;CFLterminals s.a.;LU;
 3760;STA;STA Sudtiroler Transportstrukturen AG;IT;https://www.sta.bz.it/de/
-3761;SST;SamerSeaports et terminals S.r.l. ;IT;
+3761;SST;SamerSeaports et terminals S.r.l.;IT;
 3762;RSBG;Rennsteigbahn GmbH and Co KG;DE;
 3763;SR;smart rail GmbH;DE;
-3764;Wiencont;Wiencont Container Terminal GmbH;AT;www.wiencont.com 
+3764;Wiencont;Wiencont Container Terminal GmbH;AT;www.wiencont.com
 3765;RFC 1;Rail Freight Corridor Rhine-Alpine;DE;https://www.corridor-rhine-alpine.eu/
 3766;RFC 2;Rail Freight Corridor North Sea-Mediterranean;LU;https://www.rfc-northsea-med.eu/
 3767;RFC 3;Rail Freight Corridor Scandinavian-Mediterranean;AT;https://www.scanmedfreight.eu/
 3768;RFC 4;Rail Freight Corridor Atlantic;FR;http://www.atlantic-corridor.eu/
-3769;RFC 5;Rail Freight Corridor Baltic-Adriatic ;IT;http://rfc5.eu/
+3769;RFC 5;Rail Freight Corridor Baltic-Adriatic;IT;http://rfc5.eu/
 3770;RFC 6;Rail Freight Corridor Mediterranean;IT;https://www.railfreightcorridor6.eu/
 3771;RFC 7;Rail Freight Corridor Orient/East-Med;HU;http://www.rfc7.eu/
 3772;RFC 8;Rail Freight Corridor North Sea-Baltic;PL;http://rfc8.eu/
-3773;RFC 9;Rail Freight Corridor Rhine-Danube ;AT;https://rfc-rhine-danube.eu/
+3773;RFC 9;Rail Freight Corridor Rhine-Danube;AT;https://rfc-rhine-danube.eu/
 3774;RFC 10;Rail Freight Corridor Alpine-Western Balkan;SI;https://www.rfc-awb.eu/
 3775;RFC 11;Rail Freight Corridor Amber;HU;https://rfc-amber.eu/
 3776;CFL cargo Sverige;CFL cargo Sverige AB;SE;http://www.cflcargo.se/
 3777;INTPD;Interporto Padova SPA;IT;
 3778;NeS;Netzwerkbahn Sachsen GmbH;DE;https://www.netzwerkbahn-sachsen.de/
 3779;IBAB;Inlandsbanan AB;SE;www.inlandsbanan.se
-3780;Rielsfera;RIELSFERA SAU;ES;
+3780;OUIGO;OUIGO Espana;ES;
 3781;SJ NORGE;SJ NORGE AS;NO;
 3782;NSB;Neusiedler Seebahn GmbH;AT;https://www.sj.se/#/
 3783;DRSL;Direct Rail Services Limited;GB;https://www.directrailservices.com/
@@ -977,7 +980,7 @@
 3786;ROeEE PV;Raab Odenburg Ebenfurter Eisenbahn AG Personenverkehr;AT;http://www.raaberbahn.at
 3787;ROeEE Infra;Raab Odenburg Ebenfurter Eisenbahn AG Infrastruktur;AT;http://www.raaberbahn.at
 3788;LGM;LGM Logistkgesellschaft mbH;DE;
-3789;ZP ;Zeleznice Pestal s.r.o.;CZ;www.zeleznicepestal.cz
+3789;ZP;Zeleznice Pestal s.r.o.;CZ;www.zeleznicepestal.cz
 3790;EPCIN;EP Cargo Invest a.s.;CZ;www.epcargo.cz
 3791;PT;ProTrain Trafik AB;SE;
 3792;TWTB;Tourismus und Warnetalbahn GmbH;DE;
@@ -986,17 +989,17 @@
 3795;WEE;Weser Ems Eisenbahn GmbH;DE;https://www.wee.gmbh/
 3796;ANAPET;ANAPET ULUSLARARASI NAK.PET.INS.SAN.VE TIC.A.S.;TR;
 3797;PKPCS;PKP CARGO SERVICE sp. Z o.o.;PL;
-3798;E-Railconstruct ;E-Railconstruct s.r.o.;CZ;
-3799;Yara Suomi Oy ;Yara Suomi Oy, Uudenkaupungin tehtaat;FI;
+3798;E-Railconstruct;E-Railconstruct s.r.o.;CZ;
+3799;Yara Suomi Oy;Yara Suomi Oy, Uudenkaupungin tehtaat;FI;
 3800;RÖHM;RÖHM GmbH;DE;
 3801;WFL;Wedler Franz Logistik GmbH & Co.KG;DE;
 3802;EUWAG;EUROWAGON sp. Z o.o.;PL;
 3803;ORF;Operail Finland Oy;FI;
-3804;Budamar South;Budamar South s.r.o. ;SK;
+3804;Budamar South;Budamar South s.r.o.;SK;
 3805;VVO;Zweckverband Verkehrsverbund Oberelbe;DE;www.vvo-online.de
-3806;RR;Rabbit Rail s.r.o;CZ; www.rabrail.cz
+3806;RR;Rabbit Rail s.r.o;CZ;www.rabrail.cz
 3807;VDA;Vychodoceska draha s.r.o.;CZ;
-3808;ADE EVU ;ADE Eisenbahnverkehsunternehmen GMBH;DE;http://www.vmb-mbh.de
+3808;ADE EVU;ADE Eisenbahnverkehsunternehmen GMBH;DE;http://www.vmb-mbh.de
 3809;TSGA;TAP services Governance Association AISBL;BE;https://tsga.eu/
 3810;Puerto de Valencia;Port Authority of Valencia;ES;
 3811;Mertzmix;Mertzmix GmbH & Co. KG;DE;www.mertzmix.de
@@ -1004,21 +1007,21 @@
 3813;Helrom;Helrom GmbH;DE;www.helrom.com
 3814;OSW;Omnibusbetrieb Siegfried Wilhelm Inhaber Johannes Wilhelm e.K.;DE;https://www.swilhelm-reisen.de/
 3815;TKP Silesia;TKP Silesia Spolka z ograniczona odpowiedzialnoscia Sp. K.;PL;http://tkpsilesia.pl/
-3816;Budamar Innovations;Budamar Innovations a.s.;SK; www.budamar.sk
+3816;Budamar Innovations;Budamar Innovations a.s.;SK;www.budamar.sk
 3817;DVB;Dresdner Verkehrsbetriebe AG;DE;https://www.dvb.de/
 3818;VVV GmbH;Verkehrsverbund Vogtland GmbH;DE;
 3819;VMS GmbH;Verkehrsverbund Mittelsachsen GmbH;DE;https://www.vms.de/startseite/
 3820;CDCSK;CD Cargo Slovakia, s.r.o.;SK;
 3821;GWC;GW Cargo s.r.o.;CZ;
-3822;Vy Tog;Vy Tog AS ;NO;https://www.vy.no/
-3823;KMG;KMG - Klagenfurt Mobil GmbH ;AT;https://www.stw.at/privat/mobilitaet/
+3822;Vy Tog;Vy Tog AS;NO;https://www.vy.no/
+3823;KMG;KMG - Klagenfurt Mobil GmbH;AT;https://www.stw.at/privat/mobilitaet/
 3824;Puerto de Huelva;Port Authority of Huelva;ES;www.puertohuelva.com
 3825;Gepard Express;Gepard Express, SE;CZ;www.gepard.com
 3826;NLR;Nordlandrail GmbH;DE;
 3827;OBB IT;OBB Italia S.r.l.;IT;www.oebb.at
 3828;BAM;BAM Infra Rail bv;NL;www.bam.nl
 3829;TCA;Terminal Athus Sa;BE;https://www.tca.be/en
-3830;OR;OPEN RAIL;FR;
+3830;CBR;COMBIRAIL;FR;
 3831;PRL;Pirell s.r.o.;CZ;
 3832;EVM;EVM Rail S.r.l.;IT;https://www.evmrail.it/
 3833;KORAIL;Korea Railroad Corporation.;KR;www.korail.com
@@ -1026,7 +1029,7 @@
 3835;MAVRT;MAV Rail Tours Kft.;HU;www.mavcsoport.hu
 3836;CARBO;CARBO Kohlensaurewerk Hannover GmbH;DE;www.carbo.de
 3837;SVG;Schienenverkehrsgesellschaft mbH;DE;http://www.svgmbh.com/index.php?id=359
-3838;MFDR;MFD Rail GmbH  ;CH;
+3838;MFDR;MFD Rail GmbH;CH;
 3839;FdG;Ferrovie del Gargano s.r.l;IT;http://www.ferroviedelgargano.com/it-it/Gestore-infrastruttura
 3840;DTF;Dispo-Tf RailGmbH;DE;https://dispotf.de/
 3841;HANS;Hanseatische Eisenbahn GmbH;DE;https://www.hanseatische-eisenbahn.de
@@ -1035,11 +1038,11 @@
 3844;IFTEC;IFTEC GmbH & Co KG;DE;www.iftec.de
 3845;START;Regionalverkehre Start Deutschland GmbH;DE;www.startgmbh.com/datenschutz.
 3846;HISA;Hupac Intermodal SA;CH;www.hupac.com
-3847;BHE;Bremische Hafeneisenbahn ;DE;http://www.bremische-hafeneisenbahn.de/
+3847;BHE;Bremische Hafeneisenbahn;DE;http://www.bremische-hafeneisenbahn.de/
 3848;Go Ahead BW;https://www.tricon-terminal.de/;DE;www.go-ahead-bw.de
 3849;NXG;National Express Rail GmbH;DE;www.nationalexpress.de
 3850;IV Srl.;Infrastrutture Venete S.r.l.;IT;www.infrastrutturevenete.it
-3851;RALSP;Rail Support, s.r.o. ;SK;
+3851;RALSP;Rail Support, s.r.o.;SK;
 3852;VLR;Valenta Rail s.r.o.;CZ;www.valenta-rail.cz
 3853;T.U.A.;Societa Unica di Transporto S.p.A.;IT;http://www.tuabruzzo.it
 3854;BOR;Borealis Polymers Oy;FI;https://www.borealisgroup.com/
@@ -1048,7 +1051,7 @@
 3857;FT-DI;Ferrotramviaria SpA - Divisione Infrastruttura;IT;
 3858;CD Cargo Hungary;CD Cargo Hungary Kft.;HU;
 3859;ZBB;Zababa s.r.o.;CZ;https://www.masinka.cz/
-3860;ILSA ;ILSA Intermodalidad de Levante;ES;http://ilsarail.eu/
+3860;ILSA;ILSA Intermodalidad de Levante;ES;http://ilsarail.eu/
 3861;VTG CZ;Retrack Czeh s.r.o.;CZ;
 3862;T4T;Train4Train GmbH;DE;https://train4train.com/
 3863;TriCon;TriCon Container Terminal GmbH;DE;https://www.tricon-terminal.de/
@@ -1056,7 +1059,7 @@
 3865;HIB;Kremser Hafen - und Industriebahn GmbH;AT;
 3866;RIS;Regio Infra Service Sachsen GmbH;DE;www.ris-sachsen.eu
 3867;ATC;Adria Transport Croatia d.o.o.;HR;
-3868;RTB Cargo Hungaria ;RTB Cargo Hungaria Szolgaltato Korlatolt Felelossegu Tarsasag;HU;www.rtb-cargo.com
+3868;RTB Cargo Hungaria;RTB Cargo Hungaria Szolgaltato Korlatolt Felelossegu Tarsasag;HU;www.rtb-cargo.com
 3869;MS railway;MS railway s.r.o.;CZ;
 3870;RVR;ReViRail CZ s.r.o.;CZ;
 3871;ELS;ELS Eisenbahn Logistik und Service GmbH;DE;
@@ -1067,10 +1070,10 @@
 3876;BahnLog;BahnLog Bahnlogistik & Service GmbH;DE;https://www.bahnlog.com/
 3877;NeSA;NeSA Eisenbahn-Betriebsgesellschaft Neckar-Schwarzwald-Alb MbH;DE;https://nesa-bahn.de/
 3878;TFE;Dispo-Tf Education GmbH;DE;https://dispotf.de/
-3879;PNUIK Krakow Sp. z o.o.;Przedsiebiorstwo Napraw Utrzymania Infrastruktury Kolejowej w Krakowie Sp. z o.o. ;PL;
+3879;PNUIK Krakow Sp. z o.o.;Przedsiebiorstwo Napraw Utrzymania Infrastruktury Kolejowej w Krakowie Sp. z o.o.;PL;
 3880;LRN;JSC LatRailNet;LV;https://www.lrn.lv/
 3881;RTL;Rail Transport Logistic d.o.o.;RS;http://www.rtl.co.rs/
-3882;LINZ SERVICE;LINZ SERVICE GmbH Fur Infrastruktur und Kommunale Dienste ;AT;http://www.hafenlinz.at
+3882;LINZ SERVICE;LINZ SERVICE GmbH Fur Infrastruktur und Kommunale Dienste;AT;http://www.hafenlinz.at
 3883;WNXFR;WYNX Freight s.r.o.;CZ;http://spoorstaaf.eu/
 3884;MR;MilletRAil;FR;
 3885;BEG;Brohltal-Schmalspureisenbahn Betriebs-GmbH;DE;www.vulkan-express.de
@@ -1081,11 +1084,11 @@
 3890;RSVG;Rhein-Sieg-Verkehrsgesellschaft mbH;DE;https://www.rsvg.de/
 3891;R360;Rail-360 A.Barthel;CH;https://rail360.ch/
 3892;DB Cargo AT;DB Cargo;DE;https://www.dbcargo.com/rail-de-en
-3893;TSSU;Tiroler Strasse-schiene-Umschlag gmbH ;AT;https://www.tssu.at/
-3894;IRFP e.K.;Institut fur Regional- und Fernverkehrsplanung  ;DE;www.irfp.de
+3893;TSSU;Tiroler Strasse-schiene-Umschlag gmbH;AT;https://www.tssu.at/
+3894;IRFP e.K.;Institut fur Regional- und Fernverkehrsplanung;DE;www.irfp.de
 3895;LOC;LoConnect GmbH;DE;www.loconnect.eu
 3896;Train Charter Services;Train Charter Services B.V.;NL;
-3897;Rail Force One Germany ;Rail Force One Germany GmbH;DE;https://www.railforce.one/
+3897;Rail Force One Germany;Rail Force One Germany GmbH;DE;https://www.railforce.one/
 3898;KAUN;Kaunis Holding AB;SE;
 3899;GW RC;Gebruder Weis Rail Cargo GmbH;AT;https://www.gw-world.com/
 3900;Kasasi;Kasasi GmbH;DE;www.kasasi.de
@@ -1098,7 +1101,7 @@
 3907;TGM;Ticketgoesmobile e.U.;AT;https://www.ticketgoesmobile.com/
 3908;GTT;Gruppo Torinese Trasporti S.p.A;IT;
 3909;KUK;KUK Kompleksowe Uslugi Kolejowe Sp. z.o.o.;PL;
-3910;GT Rail ;GT Rail Sp. z.o.o;PL;
+3910;GT Rail;GT Rail Sp. z.o.o;PL;
 3911;RCT-BILK;Rail Cargo Terminal - BILK Zrt.;HU;http://railcargobilk.hu/hu
 3912;UWR;United Railways SRO;RO;http://www.unitedrailways.ro/
 3913;16F;16 FEBRUAR PODGORICA DOO;ME;www.16februar.com
@@ -1107,11 +1110,11 @@
 3916;ANS;SC Ansett Logistics SA;RO;http://www.ansett-logistics.ro/
 3917;THU;Regionalbahn Thurbo AG;CH;https://www.thurbo.ch/
 3918;RPRS;Railsystems RP GmbH;DE;https://www.railsystems-rp.de/
-3919;SU-T;SUAS Transportation s.r.o. ;CZ;
+3919;SU-T;SUAS Transportation s.r.o.;CZ;
 3920;ENORA;ENORAIL;FR;
 3921;SVG Bus;Sylter Verkehrsgesellschaft;DE;https://www.svg-busreisen.de/
 3922;SMO AT;Siemens Mobility Austria GmbH;AT;https://www.siemens.com/global/en.html
-3923;TFE EU;Time Fret Express ;LU;
+3923;TFE EU;Time Fret Express;LU;
 3924;GETR;Gerhat Train s.r.o;CZ;
 3925;VIASR;VIAS Rail GmbH;DE;www.rath-gruppe.de
 3926;ARBR;Rail ARB s.r.o.;SK;
@@ -1120,9 +1123,9 @@
 3929;RFO FS;Rail Force One Fleet Services;NL;www.railforce.one
 3930;RIG AC;Rail Innovators Group AssetCo;NL;www.railforce.one
 3931;FEROV;FEROVERGNE;FR;www.groupecombronde.com
-3932;ECL GmbH;European Cargo Logistics GmbH;DE; www.ecl-online.de
+3932;ECL GmbH;European Cargo Logistics GmbH;DE;www.ecl-online.de
 3933;NAHBUS;NAHBUS Nordwestmecklenburg GmbH;DE;www.nahbus.de
-3934;SUTS;SUAS Transportation Services s.r.o. ;CZ;
+3934;SUTS;SUAS Transportation Services s.r.o.;CZ;
 3935;Vemango;Vemango GmbH;DE;https://vemango.de/
 3936;Railcoop;Railcoop SCIC;FR;https://www.railcoop.fr/
 3937;FBT;FRACHTBahn Traktion GmbH;AT;https://www.frachtbahn.eu
@@ -1133,17 +1136,17 @@
 3942;IRC;SC Interregional Calatori SRL;RO;
 3943;VTT;SC Via Terra Trans SRL;RO;
 3944;TTX;Trenitalia Tper Scarl;IT;
-3945;RuG;Rund ums Gleis GmbH;DE; www.rundumsgleis.com
+3945;RuG;Rund ums Gleis GmbH;DE;www.rundumsgleis.com
 3946;VASD;Voestalpine Stahl Donawitz GmbH;AT;https://www.voestalpine.com/group/en/
 3947;ESL;ESL GmbH Eisenbahnverkehrsunternhemen;DE;www.eisenbahnservice.com
 3948;GNL;Global Neologistics DOO;RS;
 3949;RJAT;RegioJet AT GmbH;AT;
 3950;ASP;Anschlußbahn-Servicegesellschaft Pressnitztalbahn mbH;DE;
 3951;CN Consult;CN Consult GmbH;DE;www.cn-consult.eu
-3952;NKN;NKN Uslugi Kolejowe Sp. z o.o. ;PL;http://www.nkn.com.pl/index/
+3952;NKN;NKN Uslugi Kolejowe Sp. z o.o.;PL;http://www.nkn.com.pl/index/
 3953;Te Bo;Bahnoperator Polska Sp. z.o.o.;PL;https://bahnoperator.org/
-3954;EF Claisse Rail;SAS Claisse Rail ;FR;
-3955;LPB;Lok-Partner Betriebsgesellschaft mbH & Co. KG ;DE;https://www.lok-partner.de/
+3954;EF Claisse Rail;SAS Claisse Rail;FR;
+3955;LPB;Lok-Partner Betriebsgesellschaft mbH & Co. KG;DE;https://www.lok-partner.de/
 3956;RMW;Railservice Mittelweser GmbH;DE;https://www.rmw.gmbh/
 3957;LR;LOG RAIL d.o.o.;HR;http://www.lograil.eu/
 3958;OVOE bv;Ostende Vienne Orient Experience bv;BE;http://www.ovoe.be/
@@ -1153,14 +1156,14 @@
 3962;PIMK;PIMK d.o.o. Dimitrovgrad;RS;
 3963;Koleje Slaskie;Koleje Slaskie Sp. z o.o.;PL;https://www.kolejeslaskie.com/en/
 3964;Go Ahead BY;Go Ahead Bayern GmbH;DE;https://www.go-ahead.bayern/
-3965;RENDEZ Rail;RENDEZ Rail CZ s.r.o.;CZ;
+3965;SR CZ;S-Rail CZ s.r.o.;CZ;https://www.setg.at/
 3966;FlixTrain;FlixTrain GmbH;DE;https://www.flixtrain.com/
 3967;Nurmes;Nurmeksen kaupunki;FI;
 3968;MTRN;MTR Nordic AB;SE;https://www.mtrnordic.se/
 3969;LGSE;Linde Gas Sweden AB;SE;
 3970;Spark Trade;Spark Trade Producktion AB;SE;https://sparktrade.se/en/
 3971;GRK;GRK Rail Oy;FI;https://www.grk.fi/en/
-3972;BASAB;Baneservice Skandinavia AB;SE;http://baneservice.se/
+3972;GRAB;Grenland Rail AB;SE;http://www.grenlandrail.no/
 3973;Dettmer;Dettmer Rail GmbH;DE;
 3974;VATTZ;voestalpine Turnout Technology Zetlweg GmbH;AT;https://www.voestalpine.com/group/fr/
 3975;VARS;voestalpine Railway System GmbH;AT;https://www.voestalpine.com/group/fr/
@@ -1176,15 +1179,15 @@
 3985;MTRX;MTR Express AB;SE;https://www.mtrnordic.se/
 3986;MTRP;MTR Pendeltagen AB;SE;https://www.mtrnordic.se/
 3987;MTRM;MTR Malartag AB;SE;https://www.mtrnordic.se/
-3988;TFE F;Time Fret Express ;FR;
+3988;TFE F;Time Fret Express France;FR;
 3989;Oresundstag;Oresundstag AB;SE;
-3990;RJSK;RegioJet a.s.;SK;
-3991;IGL;IGL Sp. Z.o.o.Sp.k.  ;PL;
+3990;RJSK;RegioJet a.s. (SK);SK;
+3991;IGL;IGL Sp. Z.o.o.Sp.k.;PL;
 3992;SWTT;Swedtrac Trafik AB;SE;https://traincompetencegroup.se/
 3993;MZE;MZ Eisenbahndienstleistungen GmbH;DE;
-3994;Arriva Sverige ;Arriva Sverige AB;SE;
+3994;VR Sverige AB;VR Sverige;SE;
 3995;BRS;BRS sp. z o.o.;PL;
-3996;Railpolonia ;Railpolonia sp. z o.o.;PL;
+3996;Railpolonia;Railpolonia sp. z o.o.;PL;
 3997;vlexx;vlexx GmbH;DE;www.vlexx.de
 3998;TJF;Tjustbygdens Järnvägsförening;SE;
 3999;MALAB;Mälardalstrafik MÄLAB AB;SE;https://malardalstrafik.se/
@@ -1214,15 +1217,15 @@
 4024;ALCO;Alcosuisse, Profitcenter der Eidg. Alkoholverwaltung;CH;https://www.eav.admin.ch/alcosuisse/?lang=en
 4025;BSH;Brenntag Schweizerhall AG;CH;https://www.brenntag.ch
 4026;CARBA;CARBAGAS;CH;https://www.carbagas.ch
-4027;CFPM CH;Compagnie Française de Produits Métallurgiques WASCOSA;CH;https://www.cica.ch
-4028;CICA;CICA SA;CH;
-4029;DI;Diversified Investments SA;CH;https://www.wascosa.ch
+4027;CFPM CH;Compagnie Française de Produits Métallurgiques WASCOSA;CH;https://www.wascosa.ch
+4028;CICA;CICA SA;CH;https://www.cica.ch
+4029;DI;Diversified Investments SA;CH;https://www.disinc.com
 4030;DRW;Delta Rail Wagon GmbH;CH;https://www.deltarail.de
-4031;FFAG;Furrer Frey AG;CH;https://www.disinc.com
-4032;HKAG;HASTAG (Zurich) AG;CH;https://www.furrerfrey.ch
-4033;HOLCH;Holcim (Schweiz) AG, Bahntransporte;CH;https://www.hastag.ch
-4034;HUPAC;HUPAC SA;CH;https://www.holcim.ch
-4035;LBA;Logistikbasis der Armee;CH;https://www.hupac.ch
+4031;FFAG;Furrer Frey AG;CH;https://www.furrerfrey.ch
+4032;HKAG;HASTAG (Zurich) AG;CH;https://www.hastag.ch
+4033;HOLCH;Holcim (Schweiz) AG, Bahntransporte;CH;https://www.holcim.ch
+4034;HUPAC;HUPAC SA;CH;https://www.hupac.ch
+4035;LBA;Logistikbasis der Armee;CH;
 4036;LONZA;LONZA AG;CH;https://www.lonza.com
 4037;MAKI;Makies AG;CH;https://www.makies.ch
 4038;MARTI;Marti Infra AG;CH;https://www.martiagh.ch
@@ -1252,15 +1255,15 @@
 4063;DIAMO;DIAMO, Staatsbetrieb;CZ;
 4064;DRK;Lučební závody Draslovka a.s. Kolín;CZ;
 4065;DSCHT;Duchcovska Svarovna a.s.;CZ;https://www.dscht.cz
-4066;FECZ;Felbermayr Transport und Hebetechnik spol. s.r.o.;CZ;https://www.ids-olomouc.cz
-4067;IDS;IDS - Inzenyrske a dopravni stavby Olomouc a.s.;CZ;
+4066;FECZ;Felbermayr Transport und Hebetechnik spol. s.r.o.;CZ;https://www.draslovka.cz
+4067;IDS;IDS - Inzenyrske a dopravni stavby Olomouc a.s.;CZ;https://www.ids-olomouc.cz
 4068;IFT;Interfracht s.r.o.;CZ;https://www.interfracht.cz
 4069;KEM;Kemwater ProChemie;CZ;https://www.prochemie.cz
 4070;KKB;KKB spol. s r.o.;CZ;
 4071;KS;KOTOUC ŠTRAMBERK, GmbH;CZ;https://www.kotouc.cz
 4072;KVK;Krkonošské vápenky Kunčice, a.s.;CZ;https://www.kvk.cz
-4073;LC;LAFARGE CEMENT a.s.;CZ;https://www.linde-gas.com
-4074;LGCZ;Linde Gas a.s.;CZ;https://www.draslovka.cz
+4073;LC;LAFARGE CEMENT a.s.;CZ;
+4074;LGCZ;Linde Gas a.s.;CZ;https://www.linde-gas.com
 4075;RCO;Railco a.s.;CZ;https://www.railco.eu
 4076;RMAR;RAILMAR AGENCY LTD, s.r.o.;CZ;
 4077;RYKO;RYKO PLUS spol. s r.o.;CZ;https://www.rykoplus.cz
@@ -1281,7 +1284,7 @@
 4092;ALVG;AVG Ascherslebener Verkehrsgesellschaft mbH;DE;https://www.die-avg.com
 4093;ARETZ;Aretz GmbH & Co. KG;DE;https://www.aretz.net
 4094;ARS;ARS Altmann AG;DE;https://www.ars-altmann.de
-4095;ATG;DB Cargo Logistics  GmbH;DE;https://www.dbcargo.com/rail-deutschland-logistics-de
+4095;ATG;DB Cargo Logistics GmbH;DE;https://www.dbcargo.com/rail-deutschland-logistics-de
 4096;AUDI;AUDI AG;DE;https://www.audi.de
 4097;AULOC;Augsburger Localbahn GmbH;DE;https://www.bv-lokwerkstatt.com
 4098;BASF SH;BASF Schwarzheide GmbH;DE;https://www.basf.de
@@ -1312,7 +1315,7 @@
 4123;DZLMV;DHL FoodServices GmbH;DE;https://www.dhl.com
 4124;EEB;Emsländische Eisenbahn GmbH;DE;https://www.eeb-online.de
 4125;EGOO;e.g.o.o.;DE;https://www.e-g-o-o.de
-4126;EIB;Erfurter Bahn GmbH;DE;https://www.pressnitztalbahn.com
+4126;EIB;Erfurter Bahn GmbH;DE;
 4127;EIVEL;Eichholz EIVEL GmbH;DE;https://www.evb-elbe-weser.de
 4128;ELBA;ELBA Logistik GmbH;DE;https://www.elba-logistik.de
 4129;ENVI;ENVILOC GmbH;DE;https://www.enviloc.eu
@@ -1332,7 +1335,7 @@
 4144;HFM;HFM Managementgesellschaft mbH;DE;https://www.hfm-frankfurt.de
 4145;HFW;H.F. Wiebe GmbH + Co.KG;DE;https://www.wiebe.de
 4146;HGB;Hessische Güterbahn GmbH;DE;https://www.hessische-gueterbahn.de
-4147;HHPI;Heavy Haul Power;DE;https://www.hhpi.org
+4147;HHPI;Heavy Haul Power International;DE;https://www.hhpi.de
 4148;HMED;Heinrichsmeyer Eisenbahndienstleistungen UB;DE;https://www.heinrichsmeyer.com
 4149;HRS;Hamburger Rail Service GmbH & Co.KG;DE;
 4150;HTB;Hörseltalbahn GmbH;DE;https://www.hoerseltalbahn.de
@@ -1341,9 +1344,9 @@
 4153;HZL;HzL Hohenzollerische Landesbahn AG;DE;https://www.hzl-online.de
 4154;IGBIG;IGB Industriebahn-Gesellschaft mbH;DE;
 4155;ILM;Ilmebahn GmbH;DE;https://www.ilmebahn.de
-4156;ITB;ITB Industrietransportgesellschaft mbH Brandenburg;DE;https://www.captrain.de
+4156;ITB;ITB Industrietransportgesellschaft mbH Brandenburg;DE;https://www.villmann-gruppe.de/itb.htm
 4157;ITLC;ITL Cargo GmbH;DE;https://www.itlcargo.de
-4158;JJLG;J.M. Lauff GmbH;DE;https://www.villmann-gruppe.de/itb.htm
+4158;JJLG;J.M. Lauff GmbH;DE;
 4159;JK;Johannes Klinger GmbH und Co KG;DE;https://www.klingerkg.de
 4160;JWB;Jade-Weser-Bahn GmbH;DE;https://www.jade-weser-bahn.de
 4161;KAF;KAF Falkenhahn Bau AG;DE;https://www.falkenhahn.de
@@ -1360,22 +1363,22 @@
 4172;LTH;LTH Railservice GmbH;DE;https://www.lth-gruppe.de
 4173;LWC;LWC Lappwaldbahn Cargo GmbH;DE;
 4174;LWS;LWS Lappwaldbahn Service GmbH;DE;
-4175;MB;Mansfelder Bergwerksbahn e.V.;DE;
+4175;MB;Mansfelder Bergwerksbahn e.V.;DE;https://www.bergwerksbahn.de
 4176;MEV DE;MEV Eisenbahn-Verkehrsgesellschaft mbH;DE;www.m-e-v.de
-4177;MKB;Mindener Kreisbahnen GmbH;DE;https://www.bergwerksbahn.de
+4177;MKB;Mindener Kreisbahnen GmbH;DE;https://www.mkb.de
 4178;MOS;Mosolf Automotive Railway GmbH (MAR);DE;https://www.mosolf.com
 4179;MVG;Märkische Eisenbahngesellschaft mbH;DE;https://www.mvg-online.de
-4180;NCS;DAHER PROJECTS GmbH;DE;https://www.mkb.de
+4180;NCS;DAHER PROJECTS GmbH;DE;
 4181;NEG;neg Niebüll GmbH;DE;https://www.neg-niebuell.de
 4182;NGE;Nordliner Gesellschaft für Eisenbahnverkehr mbH;DE;
 4183;NIAG;Niederrheinische Verkehrsbetriebe Aktiengesellschaft NIAG;DE;https://www.niag-online.de
 4184;NRS;Nordic Rail Service GmbH;DE;https://www.nordic-rail-service.de
-4185;OHE;Osthannoversche Eisenbahnen AG;DE;
+4185;OHE;Osthannoversche Eisenbahnen AG;DE;https://www.ohe-transport.de
 4186;ORME;On Rail - Gesellschaft für Eisenbahnausrüstung und Zubehör mbH;DE;https://www.on-rail.com
 4187;ORWU;On Rail Gesellschaft für Vermietung und Verwaltung;DE;https://www.orv-moers.de
 4188;OVEG;Ostbayerische Verwertungs und Energieerzeugungs Gmbh (OVEG);DE;https://www.z-m-s.de
-4189;PCMH;PETROCHEM Mineralöl- Handels Gmbh;DE;https://www.ohe-transport.de
-4190;PRESS;Eisenbahn-Bau-und Betriebsgesellschaft Pressnitztalbahn mbH;DE;https://www.petrochem.de
+4189;PCMH;PETROCHEM Mineralöl- Handels Gmbh;DE;https://www.petrochem.de
+4190;PRESS;Eisenbahn-Bau-und Betriebsgesellschaft Pressnitztalbahn mbH;DE;https://www.pressnitztalbahn.com
 4191;RADVE;RailAdventure GmbH;DE;https://www.railadventure.de
 4192;RAN;Railservice Alexander Neubauer;DE;https://www.r-an.net
 4193;REB;Rekers Betonwerk GmbH & Co. KG;DE;https://www.rekers-beton.de
@@ -1386,11 +1389,11 @@
 4198;SCKL;Schröder und Klaus GmbH und Co. KG;DE;
 4199;SESAF;SES Aus- und Fortbildung e.K.;DE;https://www.ses-bahn.de
 4200;SFH;Schienenfahrzeuge Export-Import Handelsgesellschaft mbH - SFH;DE;https://www.schienenfahrzeuge.de
-4201;SGL;SGL-Schienen Gueter Logistik GmbH ;DE;https://www.sgl-net.de
+4201;SGL;SGL-Schienen Gueter Logistik GmbH;DE;https://www.sgl-net.de
 4202;SKLUS;SKL Umschlageservice;DE;https://www.skl-umschlagservice.de
 4203;SOEG;Sächsisch-Oberlausitzer Eisenbahngesellschaft mbH;DE;https://www.soeg-zittau.de
 4204;STARK;Starkenberger Güterlogistik GmbH;DE;
-4206;SWEG;SWEG Südwestdeutsche Verkehrs-Aktiengesellschaft;DE;https://www.sweg.de
+4206;SWEG;SWEG Südwestdeutsche Landesverkehrs-GmbH;DE;https://www.sweg.de
 4207;SWT;Eisenbahnverkehrsunternehmen Stahlwerk Thüringen;DE;https://www.stahlwerk-thueringen.de
 4208;TRG;TRIANGULA Logistik GmbH;DE;https://www.triangula.de
 4209;TTGGE;Tyczka Gase GmbH;DE;https://www.tyczka.de
@@ -1398,7 +1401,7 @@
 4211;UEF;UEF Eisenbahn-Verkehrsgesellschaft mbH;DE;https://www.uef-dampf.de
 4212;VGH;Verkehrsbetriebe Grafschaft Hoya GmbH;DE;https://www.verden.de/wirtschaft/verden-walsroder-eisenbahn/
 4214;VRCG;Vossloh Rail Center GmbH;DE;https://www.vossloh-rail-services.com
-4215;VRCK;Voestalpine Rail Center Königsborn GmbH;DE;https://www.voestalpine.de
+4215;VRCK;Voestalpine Track Solutions Königsborn GmbH;DE;https://www.voestalpine.com/track-solutions-konigsborn
 4216;VTG;VTG Rail Europe GmbH;DE;https://www.vtg.de
 4217;VTGD;VTG Aktiengesellschaft;DE;https://www.vtg.de
 4218;VWE;VERDEN-WALSRODER EISENBAHN GmbH;DE;
@@ -1420,7 +1423,7 @@
 4234;VTGE;VTG Rail Europe GmbH-Sucursal en España;ES;https://www.vtg.com
 4235;AMAL;Arcelor Atlantique et Lorraine;FR;https://www.arcelormittal.com
 4236;ATRR;ATIR-RAIL GESTION;FR;https://www.atir-rail.com
-4237;BTF;Bombardier Transport;FR;https://www.bombardier.com
+4237;ACRE;ALSTOM Crespin SAS;FR;https://alstom.com/fr
 4238;CALCIA;Ciments Calcia;FR;https://www.ciments-calcia.fr
 4239;CARGILL;CARGILL France;FR;https://www.cargill.fr
 4240;CFPM;CFPM chez ATIR-RAIL;FR;https://www.atir-rail.com
@@ -1477,7 +1480,7 @@
 4291;AMBR;AMBROGIO TRASPORTI SpA;IT;https://www.ambrogio.it
 4292;CEMAT;Mercitalia Intermodal S.p.A.;IT;https://www.mercitaliaintermodal.it
 4293;FSLCC;FS LOGISTICA SpA -B.U. CARGO CHEMICAL;IT;https://www.fsitaliane.it
-4294;GAAL;GIOVANNI AMBROSETTI AUTO LOGISTICA SpA;IT;https://www.eliambrosetti.it
+4294;GAAL;GIOVANNI AMBROSETTI AUTO LOGISTICA SpA;IT;
 4295;ISC;Interporto Servizi Cargo S.p.A.;IT;https://www.isc.it
 4296;LOTR;LOTRAS srl;IT;https://www.lotras.it
 4297;LTFBG;Lo.Tra.Fer. Srl;IT;https://www.lotrafer.it
@@ -1485,7 +1488,7 @@
 4299;NOI;Nuovo Operatore Intermodale s.r.l.;IT;
 4300;OTS;OTS OMNIA TRASPORTI SPECIALI SRL;IT;
 4301;RONE;CFI LOGISTICS SERVICES;IT;https://www.grp-group.com
-4302;SI;Sistemi Territoriali S.p.A;IT;https://www.sistemiterritorialispa.it
+4302;ST;Sistemi Territoriali S.p.A;IT;https://www.sistemiterritorialispa.it
 4303;TRAS;TRASFEIMER Spa;IT;
 4304;LORRY;LORRY-RAIL;LU;https://www.lorry-rail.com
 4305;DVVO;Ministry of Defence Movement & Transport Organization;NL;https://www.english.defensie.nl
@@ -1570,24 +1573,229 @@
 4386;TLSSK;TransLog Slovakia a.s.;SK;https://www.translog.sk
 4387;TPSVK;Transplus (Slovensko) S.r.o.;SK;https://www.transplus.sk
 4388;USSK;U. S. Steel Košice, s.r.o.;SK;https://www.usske.sk
-4389;WSSK;WAGONSERVIS, spol.  s r.o.;SK;https://www.wagonservis.ozm.sk
+4389;WSSK;WAGONSERVIS, spol. s r.o.;SK;https://www.wagonservis.ozm.sk
 4390;ZOS;ZOS Zvolen s.r.o.;SK;https://www.zosvolen.sk
 4391;ARGU;AR-GÜ Demiryolu Tasima ve Depoculuk A.S.;TR;https://www.ar-gu.com.tr
 4392;TRTUR;TRANSTUR Uluslararasi Nakliyat ve Ticaret A.S;TR;https://www.transtur.com.tr
-4393;IK;Infrakraft Sverige AB ;SE;http://www.infrakraft.se/
-5000;ZRK  DOM;Zakład Robót Komunikacyjnych - DOM w Poznaniu Sp. z o.o.;PL;https://www.zrk-dom.com.pl/
+4393;IK;Infrakraft Sverige AB;SE;http://www.infrakraft.se/
+5000;ZRK DOM;Zakład Robót Komunikacyjnych - DOM w Poznaniu Sp. z o.o.;PL;https://www.zrk-dom.com.pl/
 5001;SVI;sncf Voyages Italia SRL;IT;
-5002;CLCAL;CL Cargo Logistics Sp. z o.o. ;PL;
+5002;CLCAL;CL Cargo Logistics Sp. z o.o.;PL;
+5003;HSLCH;HSL Schweiz GmbH;CH;www.hsl-schweiz.ch
+5004;ELLCT;ELLECOSTA SRL;IT;
+5005;T&C;T&C Sp. z o.o.;PL;
+5006;Transdev Sverige;Transdev Sverige AB;SE;www.transdev.se
+5007;Ostgotatrafiken;AB Ostgotatrafiken;SE;
+5008;VRN;Verkehrsverbund Rhein-Neckar GmbH;DE;www.vrn.de
+5009;OBL;OBL Logistic doo Beograd;RS;
+5010;ABEG;Anhaltinisch-Brandenburgische Eisenbahngesellschaft mbH;DE;www.abeg-bahn.de/
+5011;SMOK;Svenska Motorvagnsklubben;SE;
+5012;LTG Cargo Polska;LTG Cargo Polska Sp. Z o.o.;PL;https://ltgcargo.pl/
+5013;HBC;HBC Hanseatisches Bahn Contor GmbH;DE;https://hanseatisches-bahn-contor.com/
+5014;Ab Ovo;Ab Ovo Nederland B.V.;NL;https://ab-ovo.com/
+5015;CRSA;C Rail Safety ApS;DK;
+5016;EWG Rail;EWG Rail Plc.;HU;
+5017;TRVJF;Trafikverket som Jarnvagsforetag;SE;
+5018;ALSA;ALSA FERROCARRIL SA;ES;
+5019;Jaxan Group;Jaxan Group Spolka z Ograniczona Odpowiedzialnoscia;PL;
+5020;CCSRO;Commercial Contact SRO;SK;http://www.commercialcontact.com/
+5021;LTE BG;LTE Bulgaria EOOD;BG;http://www.lte-group.eu/
+5022;ECS AT;ECS EUROCARGO Speditionsges.m.b.H;AT;http://www.ecs-eurocargo.at/
+5023;Certus;Certus Rail Solutions NV;BE;https://certusrailsolutions.be/
+5024;CT-D;Captrain Deutschland GmbH;DE;https://www.captrain.de/
+5025;STAB;Svensk Tågkraft AB;SE;http://www.tagkraft.se/
+5026;DI;DE Infrastruktur GmbH;DE;
+5027;BRE;Bayerische Regionaleisenbahn GmbH;DE;
+5028;DRE;Deutsche Regionaleisenbahn GmbH;DE;
+5029;DRE BV;DRE Bahnverkehr GmbH;DE;
+5030;TAB;Tagfrakt Produktion AB;SE;http://www.tagfrakt.se/
+5031;RV;Region Varmland;SE;
+5032;FDM REW;FDM REW Damian Zur;PL;
+5033;DPB;DPB Rail Infra Service GmbH;AT;https://www.dpb.at/
+5034;TMT;TM Togdrift AS;NO;
+5035;ELLTC;ELLETEC BETRIEBS GmbH;AT;http://www.elletec.at/
+5036;NRC Sverige AB;Nordic Railways construction Sverige AB;SE;https://www.nrcgroup.com/
+5037;BTJB;BLATAGET JERNBANOR AB;SE;
+5038;SB;Saarbahn GmbH;DE;https://www.saarbahn.de/
+5039;OOC Oss;OCC Rail B.V.;NL;https://www.ooc.nl/
+5040;MTA;Metrans Adria kontejnerski promet d.o.o.;SI;https://metrans.eu/
+5041;JadeWeserPort;Container Terminal Wilhelmshaven JadeWeserPort-Marketing GmbH & Co. KG;DE;https://www.jadeweserport.de/
+5042;Cabooter Greenport;Cabooter Railterminal Greenport Venlo B.V.;NL;https://cabootergroup.com/
+5043;NTS AB;Nordic Tamping Service AB;SE;www.nts-ab.se
+5044;Atoumod;Syndicat Mixte Atoumod;FR;
+5045;FlixTrain Sweden;FlixBus Sverige AB;SE;www.flixtrain.se
+5046;VSTG;Verkehrsverbund Steiermark GmbH;AT;https://www.verbundlinie.at/
+5047;EFR;Eurostar France SAS;FR;
+5048;TF4;Tenforty2 Rail GmbH;DE;
+5049;HE;Hitachi Energy Sweden AB;SE;https://www.hitachienergy.com/
+5050;OCD24;Online Cargo Deutschland;DE;https://onlinecargodeutschland.de/
+5051;STR;Strukton Rail AB;SE;www.strukton.se
+5052;Silport;AS Sillamae Sadam;EE;https://www.silport.ee/
+5053;TF;Region Stockholm Trafikforvaltningen;SE;www.sl.se
+5054;NJ;Nassjo Jarnvagsmuseum;SE;
+5055;SKAJ;Stockholms Kultursallskap for Anga och Jarnvag;SE;
+5056;STHAMN;Stockholms Hamnar AB;SE;
+5057;DVVJ;Stiftelsen Dal-Västra Värmlands Järnväg;SE;https://www.dvvj.se/
+5058;ESIFER;Entreprise de Sécurité des Installations ferroviaires;FR;
+5059;Retrack HU;Retrack Hungaria Kft;HU;www.vtg.com
+5060;Cantus;Cantus Verkehrsgesellschaft mbH;DE;https://www.cantus-bahn.de/
+5061;ISD Dunaferr;ISD Dunaferr Danube Steelmill Ltd.;HU;
+5062;DVG;Dessauer Verkehrs GmbH;DE;https://www.dvv-dessau.de/
+5063;Budamar West;Budamar West GmbH;DE;https://www.budamar.de/
+5064;BJs;Bergslagernas Jarnvagssallskap;SE;
+5065;FSVJ;Foreningen Sormlands Veteranjarnvag;SE;https://www.fsvj.se/
+5066;CD Cargo Adria;CD Cargo Adria d.o.o.;HR;http://www.cdcargoadria.hr/
+5067;METRANS Rail sp. z o.o.;METRANS Rail spolka z ograniczona odpowiedzialnoscia;PL;https://metrans.eu/
+5068;NAB;Norrtag AB;SE;https://www.norrtag.se/#/
+5069;Mobimeo;Mobimeo GmbH;DE;https://mobimeo.com/
+5070;Sinhron Rail;Sinhron Rail d.o.o. Beograd- Novi Beograd;RS;
+5071;EUB;Eurobahn GmbH & Co. KG;DE;http://www.eurobahn.de
+5072;HSL AT;HSL Logistik Austria GmbH;AT;https://hsl-logistik.de/
+5073;GAIA;GAIAOSE SA;GR;
+5074;SHIPPEO;SHIPPEO SAS;FR;
+5075;LTE IT;LTE Italia S.r.l.;IT;www.LTE-group.eu
+5076;KOL System;KOL-System Ciezak Spolka Jawna;PL;
+5077;PTMKZ;Pomorskie Towarzystwo Milosnikow Kolei Zelaznych;PL;
+5078;East West Intermodal;East West Intermodal Logistics Service Provider private Limited Company;HU;
+5079;RSA;Boliden Milneral AB;SE;
+5080;PKP Energetyka;PKP Energetyka Spolka Akcyjna;PL;
+5081;Kotka;Kotkan Kaupunki (city of Kokta Finland);FI;www.kotka.fi
+5082;EVRO;EVROINJENERING LTD;BG;
+5083;TTZ;Tavantolgoi railway LLC;MN;
+5084;VTSD;Voestalpine Track Solutions Duisburg GmbH;DE;https://www.voestalpine.com/track-solutions-duisburg/de/
+5085;SRT;Smart Rail Traction GmbH;DE;
+5086;Onrail;Onrail AS;NO;www.onrail.no
+5087;PORR BG;PORR Bulgaria EOOD;BG;www.porr-group.com
+5088;OSLO;OSLO SAS;FR;
+5089;One Mobility Ticketing;One Mobility Ticketing GmbH;AT;www.klimaticket.at
+5090;Vectigalis;Vectigalis d.o.o;SI;https://vectigalis.si/
+5091;Borgir;Borgir Limited;GB;
+5092;Kombinirani prijevoz;Kombinirani prijevoz d.o.o.;HR;https://kprijevoz.com/
+5093;Bahnkonzept;Bahnkonzept GmbH Deutschland;DE;
+5094;RIN;Regio Infra Nord-Ost GmbH & Co. KG;DE;
+5095;TLL Sp. z o.o. Sp.K;TLL Spolka z ograniczona odpowiedzialnoscia Spolka Komandytowa;PL;
+5096;RBP GmbH;RBP Rheinische Bahnpersonal- und Verkehrsgesellschaft mbH;DE;https://www.rbp-bahn.de/
+5097;UTL AG;Umwelt- und Transportlogistik AG;CH;https://www.utl-ag.ch/
+5098;KPM;Kombinovani Prevoz Montenegro DOO;ME;
+5099;MTRS;METRANS Rail Slovakia, s.r.o;SK;https://metrans.eu/
+5100;SMK;SMK s.r.o.;SK;
+5101;AS207960;AS207960 Cyfyngedig;GB;
+5102;VVT;Verkehrsverbund Tirol GesmbH;AT;https://www.vvt.at/
+5103;ENNA Transport SI;ENNA Transport SI d.o.o.;SI;https://transport.enna.hr/
+5104;FAIRTIQ;FAIRTIQ AG;CH;https://fairtiq.com/fr-ch/
+5105;YOSARIA TRAINS;YOSARIA TRAINS, a.s.;SK;https://www.yosariatrains.sk/
+5106;ENNA BGD;ENNA Transport Bgd;RS;https://transport.enna.hr/
+5107;TDRR;Transdev Rhein-Ruhr GmbH;DE;https://www.rhein-ruhr-bahn.de/
+5108;SYTRAL;SYTRAL MOBILITES;FR;https://www.sytral.fr/
+5109;BRAG;BauRail AG;CH;https://www.baurail.ch/
+5110;Arkema;Arkema B.V.;NL;
+5111;SNCF Sud Azur;SNCF Sud Azur SAS;FR;
+5112;CEFSA;Compania Europea Ferroviaria S.A.;ES;
+5113;LBE;LBE Logistics;FR;
+5114;LRW;LOGI Railway;FR;
+5115;SPL;SPL EisenbahnVerkehr GmbH;DE;https://www.spl-ev.de/
+5116;Altrans Sp. J.;Altrans Koczerski I., Kobierecki Z., Miloch A., Sarzynski P., Spolka Jawna.;PL;http://www.altrans.wroc.pl/RODO.html
+5117;INFRANORD;Infranord AB;SE;https://www.infranord.se/
+5118;ATM BG DOO NOVI BEOGRAD;ATM BG LIMITED LIABILITY CIE FOR AUTOMATION, ENERGY AND MEASUREMENT TECHNIQUES, BELGRADE (NOVI BEOGRAD);RS;http://www.atmbg.rs/
+5119;ROP;Rail Operations SRL;RO;
+5120;Fairjungle;Fairjungle SAS;FR;
+5121;SWO;Stadtwerke Osnabruck AG;DE;https://www.stadtwerke-osnabrueck.de/ehb
+5122;KTB;Koole Terminals;NL;https://koole.com/
+5123;CTOS;Container Terminal Osnabruck GmbH;DE;https://ct-os.de/
+5124;GCA W;GCA Wagons;FR;https://www.charlesandre.com/
+5125;GBXEU;Greenbrier Leasing Europe B.V.;NL;http://www.greenbrier-europe.com/fr/page-daccueil/
+5126;NOBEG;NordOstBayerischeEisenbahnGesellschaft;DE;http://nobeg.de/
+5127;Draslovka;Lucebni zavody Draslovka a.s. Kolin;CZ;https://www.draslovka.cz/cs
+5128;VSN;VIAS Nederland B.V.;NL;https://www.vias-online.de/
+5129;Bahn PT;Bahn PT GmbH;DE;https://www.bahnpersonal-training.de/
+5130;KV;Kalmar Veterantag;SE;https://www.kalmarveterantag.se/
+5131;SSG;SWEG Schienenwege GmbH;DE;https://www.sweg.de/
+5132;ZUGA;Zug Agency s.r.o.;CZ;
+5133;ENJ;Engelsbergs Norbers Jarnvagshistoriska Forening;SE;
+5134;AFJ;Arvidsjaurs jarnvagsforening;SE;
+5135;OUD;Osoblazska uzkorozchodna draha, o.p.s.;CZ;
+5136;ContecRail;Contec Rail Aps;DK;
+5137;GGL;SC Global Grain Logistics SRL;RO;
+5138;PRM Kft.;Phoenix Rail Maganvasut Kft.;HU;
+5139;SAS;Stockholms Anglokssallskap;SE;https://anglok.com/
+5140;ADKRS;ADK Rail service s.r.o.;CZ;
+5141;Belfry PE Kft.;Belfry PE Korlatolt Felelossegu Tarsasag;HU;https://belfrygroup.eu/
+5142;Midnight Trains;00H00 SAS;FR;https://www.midnight-trains.com/en/home
+5143;AMCON;AMCON Software GmbH;DE;
+5144;Alva Yhtiot;Alva Yhtiot Oy;FI;
+5145;THC;Train Hungary Maganvasut KFT, Sucursala Craiova;RO;
+5146;OJF;Orsa Jernvagsforening;SE;
+5147;Arail;Alstom Rail Sweden AB;SE;www.alstom.com
+5148;RNV;DB RegioNetz Verkehrs GmbH;DE;https://www.deutschebahn.com/de/
+5149;GYSEV CARGOROM;GYSEV CARGOROM srl;RO;
+5150;TiB;Tag i Bergslagen AB;SE;https://www.tagibergslagen.se/
+5151;JVM;Statens Maritima och Transporthistoriska Museer Jarnvagsmuseet;SE;https://www.jarnvagsmuseet.se/
+5152;Region Auvergne Rhone Alpes;Region Auvergne Rhone Alpes;FR;https://www.auvergnerhonealpes.fr/
+5153;RATH Fleet;RATH Fleet B.V.;NL;https://www.rath-gruppe.de/
+5154;NRFAB;Nordic Re-Finance AB;SE;https://www.nordicrefinance.se/
+5155;RC Trans Rail;RC Trans Rail Sp. zo.o.;PL;
+5156;FOXFI;FoxRail Logistics Oy;FI;https://frlogistics.fi/
+5157;RTR;BTT Rail Terminal Rzepin Spolka z.o.o.;PL;https://www.bttmultimodal.nl/
+5158;RTE;Reseau de transport d'Electricité;FR;https://www.rte-france.com/
+5159;BSVG;Braunschweiger Verkehrs-GmbH;DE;www.bsvg.net
+5160;S-Bahn Hamburg;S-Bahn Hamburg GmbH;DE;
+5161;HEROH;Rohstoffhandel Heroh GmbH;DE;www.heroh.de
+5162;V-Hid Cargo Zrt;V-Hid Cargo Zartkoruen Mukodo Reszvenytarsasag;HU;https://vhid.hu/
+5163;RWX;Rail Wagon Xtra;NL;
+5164;KUMSK;Moravskoslezsky kraj;CZ;
+5165;DPWL;DPWorld Liege;BE;
+5166;GBR;GB Rail spolka z orgraniczona odpowiedzialnoscia;PL;
+5167;SWV;Stadtwerke Viernheim GmbH;DE;https://www.stadtwerke-viernheim.de/
+5168;POVED;Plzensky organizator verejne dopravy;CZ;
+5169;ecco-rail Kft;ecco-rail Korlatolt Felelossegu Tarsasag;HU;https://www.twentyone.eu/
+5170;ABFL;Aktiv Bus Flensburg GmbH;DE;https://aktivbus-flensburg.de/
+5171;Gijon Port Auth.;Gijon Port Authority;SP;https://www.puertogijon.es/
+5172;koveb;Koblenzer Verkehrsbetriebe GmbH;DE;https://www.koveb.de/
+5173;NASA GmbH;Nahverkehrsservice Sachsen-Anhalt GmbH;DE;https://www.nasa.de/
+5174;VCT;Via Cargo Technika Sp. z o.o.;PL;https://viacargo.pl/
+5175;TMI;Terminali Italia SrL;IT;
+5176;UTL;UTL Umwelt- und Transportlogistik GmbH;DE;https://www.utl-gmbh.de/
+5177;FriBus;FriBus Inh. Holger Friederichs;DE;http://s556031754.website-start.de/
+5178;NZR;Komplex Rail NZ s.r.o.;SK;https://komplexrail.sk/
+5179;NGMA;NoHAB GM Foundation;HU;
+5180;UNPAL;Unimot Paliwa Sp. Z o.o;PL;https://www.unimot.pl/
+5181;Arcese;Arcese;IT;https://arcese.com/
+5182;TCA Rail;TCA Rail N.V.;BE;https://www.tca.be/fr
+5183;HVB;Harzer Verkehrsbetriebe GmbH;DE;https://hvb-harz.de/
+5184;SBB Infrastruktur Baulogistik;Schweizerische Bundesbahnen SBB Infrastruktur Baulogistik;CH;https://www.sbb.ch/de
+5185;WEG;Wurttembergische Eisenbahn Gesellschaft mbH;DE;https://www.weg-bahn.de/
+5186;SBB Infrastruktur PathOrderTool;Schweizerische Bundesbahnen SBB Infrastruktur;CH;https://www.sbb.ch/de
+5187;Euskotren;Euskotrenbideak-Ferrocarrilles Vascos S.A.;ES;https://www.euskotren.eus/
+5188;European Sleeper Exploitatie;European Sleeper Exploitatie B.V.;NL;
+5189;ZVS;Zweckverband Schonbuchbahn;DE;https://www.schoenbuchbahn.de/
+5190;MfOSJ;Museiforeningen Ostra Skanes Jarnvagar;SE;
+5191;KRE;KombiRail Europe GmbH;DE;
+5192;ENNA Logic;ENNA Logic d.o.o.;HR;https://transport.enna.hr/
+5193;WEBA;Westerwaldbahn des Kreises Altenkirchen GmbH;DE;https://www.westerwaldbahn.de/
+5194;DGW;KG Deutsche Gasrusswerke GmbH &Co;DE;https://gasruss.de/index.php/de/
+5195;Rossbergbahn;Stadt Bad Wurzach;DE;https://www.bad-wurzach.de/stadt/de/startseite
+5196;jubu;Jung Bus GmbH;DE;http://www.jung-bus.de/linienverkehr.html
+5197;AVV GmbH;Augsburger Verkehrs- und Tarifverbund GmbH;DE;https://www.avv-augsburg.de/
+5198;UBB Polska;UBB Polska Sp. z o.o.;PL;https://www.ubb-online.com/
+5199;UBB;Usedomer Baderbahn GmbH;DE;https://www.ubb-online.com/
+5200;HVG;Halberstadter Verkehrs GmbH;DE;https://www.stadtverkehr-halberstadt.de/
+5201;Saga Rail;Saga Rail AB;SE;https://www.sagarail.se/
+5202;Meso;Meso and more GmbH;DE;https://www.meso.de/
+5203;VWG Sommerda;Verwaltungsgesellschaft des OPNV Sommerda mbH;DE;https://www.linienverkehr.de/
+5204;ZVVW;Zweckverband Verkehrsverband Wieslauftalbahn;DE;https://www.rems-murr-kreis.de/
+5205;Griesar;Griesar Reisen GmbH;DE;
 5281;RCCBG;Rail Cargo Carrier Bulgaria EOOD;BG;http://www.railcargocarrier.com/
 5481;RCCCZ;Rail Cargo Carrier Czech republic;CZ;http://www.railcargocarrier.com/
 6100;KHIND;Korea Heavy Industry and Development;KR;www.Khind.co.kr
-6880;DDSV;Duro Dakovic Special vehicles ;HR;http://www.ddsv.hr/en/index.php
+6880;DDSV;Duro Dakovic Special vehicles;HR;http://www.ddsv.hr/en/index.php
 7087;VSUK;Voyages SNCF UK Limited;GB;https://uk.voyages-sncf.com/
 7187;VSB;Voyages SNCF Benelux SPRL;BE;https://benelux.voyages-sncf.eu/
+7281;RCC SE;Rail Cargo Carrier- Southeast d.o.o.;RS;https://www.railcargo.com/
 7287;VSD;Voyages SNCF Deutschland GmbH;DE;http://de.voyages-sncf.com/de/
 7387;VSS;Voyages SNCF Suisse SARL;CH;https://www.voyages-sncf.eu/
 7487;VSI;Voyages SNCF Italia SRL;IT;https://italia.voyages-sncf.eu/
 7587;VSE;Voyages SNCF Espana SRLU;ES;http://iberica.voyages-sncf.eu/
+7824;THM-PZ;TRAIN HUNGARY MAGÁNVASÚT KFT, Podružnica u Zagrebu za pružanje željezničkih usluga;HR;
 7881;RCCHR;Rail Cargo Carrier Croatia d.o.o.;HR;http://www.railcargocarrier.com/
 7981;RCCSI;Rail Cargo Carrier, d.o.o.;SI;http://www.railcargocarrier.com/
 8987;SIB;SIBELIT S.A.;LU;

@@ -21,4 +21,16 @@ public class CarrierServiceTest {
         assertNull(service.getCarrier(101)); // Dummy
     }
 
+    @Test
+    public void testSomeRandomOtherCompany() {
+        CarrierService service = new CarrierService();
+        Carrier cargo = service.getCarrier(2180);
+        assertEquals("DE", cargo.getCountry());
+        assertEquals("DBCDE", cargo.getLabelShort());
+        assertEquals("DB Cargo AG", cargo.getLabelLong());
+        assertEquals("https://www.dbcargo.com/", cargo.getWebsite());
+
+        assertNull(service.getCarrier(101)); // Dummy
+    }
+
 }
