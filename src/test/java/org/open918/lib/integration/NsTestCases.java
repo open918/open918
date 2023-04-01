@@ -12,6 +12,7 @@ import java.security.SignatureException;
 
 /**
  * Test cases for NS tickets
+ * These (often acceptance environment) tickets were provided by NS during development of a UIC fork of this library
  */
 public class NsTestCases extends TicketTestCase {
 

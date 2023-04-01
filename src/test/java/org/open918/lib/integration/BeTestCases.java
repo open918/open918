@@ -6,6 +6,7 @@ import org.open918.lib.domain.uic918_3.Ticket918Dash3;
 
 /**
  * Test cases for NMBS tickets
+ * These (often acceptance environment) tickets were provided by NS during development of a UIC fork of this library
  */
 public class BeTestCases extends TicketTestCase {
 

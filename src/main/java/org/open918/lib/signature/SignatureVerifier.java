@@ -32,6 +32,7 @@ public class SignatureVerifier {
         } catch (CertificateException e) {
             return false;
         }
+        // Trim zeroes
         int j = signature.length;
         for (int i = signature.length - 1; (i > 0) && (signature[i] == 0); i--) {
             j = i;
