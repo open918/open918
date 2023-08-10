@@ -3,36 +3,39 @@ package org.open918.lib.domain;
 /**
  * Created by Joel Haasnoot on 26/04/15.
  */
-public enum Carrier {
-
-    EUROSTAR(19, "Eurostar"),
-    DB(1180, "DB"),
-    DB_ALT(80, "DB"),
-    NS(1184, "NS"),
-    DSB(1186, "DSB"),
-    OBB(1181, "OBB"),
-    SNCF(1187, "SNCF"),
-    NMBS(1088, "NMBS"),
-    UNKNOWN(0, "Unknown");
+public class Carrier {
 
     private final int rics;
-    private final String label;
+    private final String labelShort;
+    private final String labelLong;
+    private final String country;
+    private final String website;
 
-    Carrier(int ricsCode, String label) {
-        this.rics = ricsCode;
-        this.label = label;
+    public Carrier(int rics, String labelShort, String labelLong, String country, String website) {
+        this.rics = rics;
+        this.labelShort = labelShort;
+        this.labelLong = labelLong;
+        this.country = country;
+        this.website = website;
     }
 
-    public String getLabel() {
-        return label;
+    public int getRics() {
+        return rics;
     }
 
-    public static Carrier fromRics(int code) {
-        for (Carrier c : values()) {
-            if (c.rics == code) {
-                return c;
-            }
-        }
-        return UNKNOWN;
+    public String getLabelShort() {
+        return labelShort;
+    }
+
+    public String getLabelLong() {
+        return labelLong;
+    }
+
+    public String getCountry() {
+        return country;
+    }
+
+    public String getWebsite() {
+        return website;
     }
 }

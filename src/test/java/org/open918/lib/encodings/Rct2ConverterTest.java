@@ -1,7 +1,7 @@
 package org.open918.lib.encodings;
 
 import org.open918.lib.domain.GenericTicketDetails;
-import org.open918.lib.domain.Ticket;
+import org.open918.lib.domain.uic918_3.Ticket918Dash3;
 import org.open918.lib.TicketUtils;
 
 import org.junit.Test;
@@ -26,7 +26,7 @@ public class Rct2ConverterTest {
                 "kMKcw6rDkcOjwq3CpEwyaMOkwps1KRvDtcOdw7nDpSZwbMOKXMO/woHDusKXw7ciw7jDpkDDusKO\n" +
                 "w4jDlkjDn8KIbnzCiX9BE34q";
 
-        Ticket s = TicketUtils.getTicket(ticket);
+        Ticket918Dash3 s = TicketUtils.getDash3Ticket(ticket);
         Rct2Converter converter = new Rct2Converter(s.getContents().getFields());
         GenericTicketDetails details = converter.toDetails();
         assertEquals("Vervoerbewijs Enkel", details.getTicketTitle());
@@ -55,7 +55,7 @@ public class Rct2ConverterTest {
                 "BXDCtwTDmMK7w6PDsxLDjAPDoMKow6o3wp3Dq8OXTx9dwrcRw7VbwrfCoXvCqMOdw6LChi/Ch1l3\n" +
                 "UcOZwr08w7bDq3PDgFNkw69ow4TCicOYJ18jBMKEXQ==";
 
-        Ticket s = TicketUtils.getTicket(ticket);
+        Ticket918Dash3 s = TicketUtils.getDash3Ticket(ticket);
         Rct2Converter converter = new Rct2Converter(s.getContents().getFields());
         GenericTicketDetails details = converter.toDetails();
         assertEquals("VERVOERBEWIJS", details.getTicketTitle());
@@ -82,7 +82,7 @@ public class Rct2ConverterTest {
                 "ksOhw7jDrcKPwrXCjsOnw4LDqCDDgcKNwqZuwpYZY8KeOk0DTB/CrsKeZMOed8OndsOyeCsqwpMM\n" +
                 "HnnCvUZlwoPCv8K7bMOuwpl7DRxCJ3EzccOzJDx1R8OUIyFHQ30XwrrDqcK1w74BPjp+Jw==";
 
-        Ticket s = TicketUtils.getTicket(ticket);
+        Ticket918Dash3 s = TicketUtils.getDash3Ticket(ticket);
         Rct2Converter converter = new Rct2Converter(s.getContents().getFields());
         GenericTicketDetails details = converter.toDetails();
         assertEquals("Vervoerbewijs Enkel", details.getTicketTitle());
@@ -109,7 +109,7 @@ public class Rct2ConverterTest {
                 "lCoswo3CicOOQMKtTjJWBTLCkS9YDx0yGXtVOhF9DMK+HGLDisKjGsK6w4lew7zCt3PDhiNfw6nC\n" +
                 "sixDfsOXwqnDrD/DvgBSwr14w5s=";
 
-        Ticket s = TicketUtils.getTicket(ticket);
+        Ticket918Dash3 s = TicketUtils.getDash3Ticket(ticket);
         Rct2Converter converter = new Rct2Converter(s.getContents().getFields());
         GenericTicketDetails details = converter.toDetails();
         assertEquals("Vervoerbewijs Dagkaart", details.getTicketTitle());
@@ -137,7 +137,7 @@ public class Rct2ConverterTest {
                 "g8OKw7IEwpdvDR8ow5dgwq53w6/Cu8KYw459TG/DsXvDu3EUw7lPwqDCvgPCkEnDlDfCgBtfw6IH\n" +
                 "OcKvfEA=";
 
-        Ticket s = TicketUtils.getTicket(ticket);
+        Ticket918Dash3 s = TicketUtils.getDash3Ticket(ticket);
         Rct2Converter converter = new Rct2Converter(s.getContents().getFields());
         GenericTicketDetails details = converter.toDetails();
         assertEquals("Enkele reis", details.getTicketTitle());
@@ -163,7 +163,7 @@ public class Rct2ConverterTest {
                 "mhDCp8ORw7sOVsKbwpfDljzCtWPDqMKGMA59P07CsMK2w6YPf8Klw6wnXcKWw7TCjcO6fcOCA0J/\n" +
                 "ScO9";
 
-        Ticket s = TicketUtils.getTicket(ticket);
+        Ticket918Dash3 s = TicketUtils.getDash3Ticket(ticket);
         Rct2Converter converter = new Rct2Converter(s.getContents().getFields());
         GenericTicketDetails details = converter.toDetails();
         assertEquals("Arnhem Centraal - Arnhem Velperpoort", details.getTicketTitle());

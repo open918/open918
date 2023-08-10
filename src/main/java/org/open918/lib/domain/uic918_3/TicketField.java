@@ -1,4 +1,6 @@
-package org.open918.lib.domain;
+package org.open918.lib.domain.uic918_3;
+
+import org.open918.lib.domain.Rct2Format;
 
 /**
  * Created by Joel Haasnoot on 26/04/15.

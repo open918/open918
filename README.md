@@ -12,16 +12,16 @@ This library is beta quality - it's nowhere feature complete but has fairly matu
 
 ### Implemented
 * Support for 918.3 tickets
+* Support for reading and verifying the digital signature of tickets (you will need to provide the correct public key)
 * Support for RCT2 field encoding and limited support for EOSU standard
 
 ### Missing
-* Support for reading and verifying the digital signature of tickets
 * Support for 918.2 tickets/barcodes
 
 ## Usage
 Build and import this library in your application, for instance by specifying it in your gradle build file:
 
-```compile "org.open918:open918:1.0-SNAPSHOT" ```
+```compile "org.open918:open918:1.2-SNAPSHOT" ```
 
 For an example of using this in Android context, please see the ``sample-app-android`` project.
 

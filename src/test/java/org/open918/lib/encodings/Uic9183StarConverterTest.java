@@ -3,16 +3,17 @@ package org.open918.lib.encodings;
 import org.junit.Test;
 import org.open918.lib.TicketUtils;
 import org.open918.lib.UicStarBlockParser;
-import org.open918.lib.domain.GenericTicketDetails;
 import org.open918.lib.domain.Ticket;
+import org.open918.lib.domain.TicketStandard;
+import org.open918.lib.domain.uic918_3.Ticket918Dash3;
+import org.open918.lib.domain.uic918_3.TicketContents;
 
-import javax.xml.bind.DatatypeConverter;
-import java.nio.charset.StandardCharsets;
 import java.text.ParseException;
+import java.util.Comparator;
+import java.util.List;
 import java.util.zip.DataFormatException;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
 
 /**
  * Created by Joel Haasnoot on 17/10/15.
@@ -32,10 +33,15 @@ public class Uic9183StarConverterTest {
                 "w5wffMKow74vw7rCu03CnA==";
 
         Ticket s = TicketUtils.getTicket(ticket);
-        assertEquals(3, s.getBlocks().size());
-        assertEquals("0080ID", s.getBlocks().get(0).getType());
-        assertEquals("0080BL", s.getBlocks().get(1).getType());
-        assertEquals("0080VU", s.getBlocks().get(2).getType());
+        assertEquals(s.getStandard(), TicketStandard.TICKET918_3);
+        Ticket918Dash3 t = (Ticket918Dash3) s;
+        assertEquals(3, t.getBlocks().size());
+        List<TicketContents> blocks = t.getBlocks();
+        blocks.sort(Comparator.comparing(TicketContents::getType));
+        assertEquals("0080BL", blocks.get(0).getType());
+        assertEquals("0080ID", blocks.get(1).getType());
+        assertEquals("020018012009", blocks.get(1).getRawContents());
+        assertEquals("0080VU", blocks.get(2).getType());
     }
 
     @Test
